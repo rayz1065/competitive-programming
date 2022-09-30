@@ -1,5 +1,57 @@
 # Informatics Olympiads in Teams
 
+## 2019 edition
+
+### Round 1, 2018-10-26
+- [x] Greedy Santa (christmas) [url](https://training.olinfo.it/#/task/ois_christmas/statement)
+- [ ] Pet Fair (exhibitions) [url](https://training.olinfo.it/#/task/ois_exhibitions/statement)
+- [x] Master Chef (kitchen) [url](https://training.olinfo.it/#/task/ois_kitchen/statement)
+- [x] Shopping Malls (malls) [url](https://training.olinfo.it/#/task/ois_malls/statement)
+- [x] Muffin Selection (muffin) [url](https://training.olinfo.it/#/task/ois_muffin/statement)
+- [x] Call for Help (numpad) [url](https://training.olinfo.it/#/task/ois_numpad/statement)
+- [x] Tournament Planning (poker) [url](https://training.olinfo.it/#/task/ois_poker/statement)
+- [x] N-Restaurants (restaurants) [url](https://training.olinfo.it/#/task/ois_restaurants/statement)
+
+### Round 2, 2018-11-27
+- [x] Forced Sales (bankrupt) [url](https://training.olinfo.it/#/task/ois_bankrupt/statement)
+- [x] Colorful Carpets (carpets) [url](https://training.olinfo.it/#/task/ois_carpets/statement)
+- [x] Chips (chips) [url](https://training.olinfo.it/#/task/ois_chips/statement)
+- [x] Enigmath Machine (enigmath) [url](https://training.olinfo.it/#/task/ois_enigmath/statement)
+- [x] Imaginary Grasshopper (grasshopper) [url](https://training.olinfo.it/#/task/ois_grasshopper/statement)
+- [x] Lucky Numbers (luck) [url](https://training.olinfo.it/#/task/ois_luck/statement)
+- [x] Bus Trip (trip) [url](https://training.olinfo.it/#/task/ois_trip/statement)
+- [x] Old Typewriter (typewriter) [url](https://training.olinfo.it/#/task/ois_typewriter/statement)
+
+### Round 3, 2018-12-19
+- [x] Composable Columns (columns) [url](https://training.olinfo.it/#/task/ois_columns/statement)
+- [x] Exatlon Battle (exatlon) [url](https://training.olinfo.it/#/task/ois_exatlon/statement)
+- [x] Crazy Lights Hotel (joc) [url](https://training.olinfo.it/#/task/ois_joc/statement)
+- [ ] Gift Delivery (pasi) [url](https://training.olinfo.it/#/task/ois_pasi/statement)
+- [ ] Railway Schedule (paths) [url](https://training.olinfo.it/#/task/ois_paths/statement)
+- [x] Forgotten Pencil Case (pens) [url](https://training.olinfo.it/#/task/ois_pens/statement)
+- [x] Italian Scopa (scopa) [url](https://training.olinfo.it/#/task/ois_scopa/statement)
+- [x] Meal Tickets (tickets) [url](https://training.olinfo.it/#/task/ois_tickets/statement)
+
+### Round 4, 2019-01-10
+- [x] Air Traffic Control (atc) [url](https://training.olinfo.it/#/task/ois_atc/statement)
+- [x] Lovely Cats (cats) [url](https://training.olinfo.it/#/task/ois_cats/statement)
+- [x] Unreadable Dates (dates) [url](https://training.olinfo.it/#/task/ois_dates/statement)
+- [x] Text Editor (editor) [url](https://training.olinfo.it/#/task/ois_editor/statement)
+- [x] Art Gallery Selection (gallery) [url](https://training.olinfo.it/#/task/ois_gallery/statement)
+- [x] The Kabbalah Returns (kabbalah2) [url](https://training.olinfo.it/#/task/ois_kabbalah2/statement)
+- [x] Persian Party (mehmooni) [url](https://training.olinfo.it/#/task/ois_mehmooni/statement)
+- [x] Compulsive Shopping (shopping) [url](https://training.olinfo.it/#/task/ois_shopping/statement)
+
+### Final round, 2019-02-08
+- [x] Air Traffic Control II (atc2) [url](https://training.olinfo.it/#/task/ois_atc2/statement)
+- [x] Chief Executive Officer (ceo) [url](https://training.olinfo.it/#/task/ois_ceo/statement)
+- [x] Long Columns (columns2) [url](https://training.olinfo.it/#/task/ois_columns2/statement)
+- [ ] Not Another Pet Fair (exhibitions2) [url](https://training.olinfo.it/#/task/ois_exhibitions2/statement)
+- [x] Gasoline Stations (gasoline) [url](https://training.olinfo.it/#/task/ois_gasoline/statement)
+- [x] Code Refactoring (refactor) [url](https://training.olinfo.it/#/task/ois_refactor/statement)
+- [ ] Nation Infrastructures (streets) [url](https://training.olinfo.it/#/task/ois_streets/statement)
+- [ ] Full-Body Workout (workout) [url](https://training.olinfo.it/#/task/ois_workout/statement)
+
 ## 2020 edition
 
 ### Round 1, 2019-11-11
@@ -57,7 +109,6 @@
 ## 2021 edition
 
 ### Round 1, 2020-11-16
-
 - [ ] Delivery Time (delivery) [url](https://training.olinfo.it/#/task/ois_delivery/statement)
 - [ ] The Enigma of the Dungeon Cave (dungeon) [url](https://training.olinfo.it/#/task/ois_dungeon/statement)
 - [ ] Tax Fraud Detection (fraud) [url](https://training.olinfo.it/#/task/ois_fraud/statement)
@@ -69,7 +120,6 @@
 - [ ] Xorstanta (xorstanta) [url](https://training.olinfo.it/#/task/ois_xorstanta/statement)
 
 ### Round 2, 2020-12-15
-
 - [ ] Plan for the Worst! (airstrike) [url](https://training.olinfo.it/#/task/ois_airstrike/statement)
 - [ ] Pay That Box! Home Edition (boardgame) [url](https://training.olinfo.it/#/task/ois_boardgame/statement)
 - [ ] Coin Change (coinchange) [url](https://training.olinfo.it/#/task/ois_coinchange/statement)
@@ -80,7 +130,6 @@
 - [ ] Crazy Roller Coaster (rollercoaster2) [url](https://training.olinfo.it/#/task/ois_rollercoaster2/statement)
 
 ### Round 3, 2021-01-13
-
 - [ ] Count the Floors! (elevator) [url](https://training.olinfo.it/#/task/ois_elevator/statement)
 - [ ] Do Not Gather! (gatherings) [url](https://training.olinfo.it/#/task/ois_gatherings/statement)
 - [ ] Back to the Himalayas (himalaya) [url](https://training.olinfo.it/#/task/ois_himalaya/statement)
@@ -92,7 +141,6 @@
 - [ ] Johnnie Walker (walker) [url](https://training.olinfo.it/#/task/ois_walker/statement)
 
 ### Round 4, 2021-02-04
-
 - [x] Git Status (git) [url](https://training.olinfo.it/#/task/ois_git/statement)
 - [ ] Picarats Collection (picarats) [url](https://training.olinfo.it/#/task/ois_picarats/statement)
 - [ ] Prizes Assignment (prizes) [url](https://training.olinfo.it/#/task/ois_prizes/statement)
@@ -103,7 +151,6 @@
 - [x] Trending Topics (trending) [url](https://training.olinfo.it/#/task/ois_trending/statement)
 
 ### Final round, 2021-02-26
-
 - [x] Buy 3, Pay for 2 (3x2) [url](https://training.olinfo.it/#/task/ois_3x2/statement)
 - [ ] Saturday Night Game (collision) [url](https://training.olinfo.it/#/task/ois_collision/statement)
 - [ ] Moving Heavy Loads (crane) [url](https://training.olinfo.it/#/task/ois_crane/statement)
