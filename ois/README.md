@@ -1,5 +1,52 @@
 # Informatics Olympiads in Teams
 
+## 2017 edition
+
+### Round 1, 2016-10-28
+- [x] A Matter of Size (kabbalah) [url](https://training.olinfo.it/#/task/ois_kabbalah/statement)
+- [x] The Floor is Lava (lava) [url](https://training.olinfo.it/#/task/ois_lava/statement)
+- [x] Server Farm (plugs) [url](https://training.olinfo.it/#/task/ois_plugs/statement)
+- [x] Independent House (prefab) [url](https://training.olinfo.it/#/task/ois_prefab/statement)
+- [x] Reserved Seats (seats) [url](https://training.olinfo.it/#/task/ois_seats/statement)
+- [x] Antique Street Lights (streetlights) [url](https://training.olinfo.it/#/task/ois_streetlights/statement)
+- [x] Wheel of Fortune (wheel) [url](https://training.olinfo.it/#/task/ois_wheel/statement)
+
+### Round 2, 2016-11-28
+- [x] Feng Shui House (fengshui) [url](https://training.olinfo.it/#/task/ois_fengshui/statement)
+- [x] Gambling Assistant (gamble) [url](https://training.olinfo.it/#/task/ois_gamble/statement)
+- [x] Interstellar Transmissions (seti) [url](https://training.olinfo.it/#/task/ois_seti/statement)
+- [x] Public Transport (teleport) [url](https://training.olinfo.it/#/task/ois_teleport/statement)
+- [x] Confusing Usernames (usernames) [url](https://training.olinfo.it/#/task/ois_usernames/statement)
+- [x] Scenic Walkway (walkway) [url](https://training.olinfo.it/#/task/ois_walkway/statement)
+- [x] Water Calculator (water) [url](https://training.olinfo.it/#/task/ois_water/statement)
+
+### Round 3, 2016-12-20
+- [x] Chat System (chat) [url](https://training.olinfo.it/#/task/ois_chat/statement)
+- [x] Connect X (connectx) [url](https://training.olinfo.it/#/task/ois_connectx/statement)
+- [x] Perfect Crossover (crossover) [url](https://training.olinfo.it/#/task/ois_crossover/statement)
+- [x] But It Keeps Getting Faster (faster) [url](https://training.olinfo.it/#/task/ois_faster/statement)
+- [x] Enrichment Center (glados) [url](https://training.olinfo.it/#/task/ois_glados/statement)
+- [x] Mosaic Composition (mosaic) [url](https://training.olinfo.it/#/task/ois_mosaic/statement)
+- [x] Server Provisioning (server) [url](https://training.olinfo.it/#/task/ois_server/statement)
+
+### Round 4, 2017-01-26
+- [x] Arena Freaks (arena) [url](https://training.olinfo.it/#/task/ois_arena/statement)
+- [x] Find My Coat (coats) [url](https://training.olinfo.it/#/task/ois_coats/statement)
+- [x] Upsetting Finals (finals) [url](https://training.olinfo.it/#/task/ois_finals/statement)
+- [ ] Notary Club (noblesse) [url](https://training.olinfo.it/#/task/ois_noblesse/statement)
+- [x] Array Partition (partition) [url](https://training.olinfo.it/#/task/ois_partition/statement)
+- [x] Washing Socks (socks) [url](https://training.olinfo.it/#/task/ois_socks/statement)
+- [x] Tax Return (taxes) [url](https://training.olinfo.it/#/task/ois_taxes/statement)
+
+### Final round, 2017-02-20
+- [x] Treatment Planning (antibiotics) [url](https://training.olinfo.it/#/task/ois_antibiotics/statement)
+- [x] Capture the Flag (arena2) [url](https://training.olinfo.it/#/task/ois_arena2/statement)
+- [x] Boring Chores (chores) [url](https://training.olinfo.it/#/task/ois_chores/statement)
+- [x] GitUbe Graph (gitube) [url](https://training.olinfo.it/#/task/ois_gitube/statement)
+- [ ] Winning Strategies (magnamagna) [url](https://training.olinfo.it/#/task/ois_magnamagna/statement)
+- [x] Fickle Trends (mode) [url](https://training.olinfo.it/#/task/ois_mode/statement)
+- [x] Rescaling Sequence (rescaling) [url](https://training.olinfo.it/#/task/ois_rescaling/statement)
+
 ## 2018 edition
 
 ### Round 1, 2017-10-30
