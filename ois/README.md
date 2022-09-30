@@ -1,5 +1,52 @@
 # Informatics Olympiads in Teams
 
+## 2018 edition
+
+### Round 1, 2017-10-30
+- [x] Caesar Cypher (caesar) [url](https://training.olinfo.it/#/task/ois_caesar/statement)
+- [x] Wonderful Grove (copac) [url](https://training.olinfo.it/#/task/ois_copac/statement)
+- [x] Decimal Fractions (fraction) [url](https://training.olinfo.it/#/task/ois_fraction/statement)
+- [x] Word Game (jumps) [url](https://training.olinfo.it/#/task/ois_jumps/statement)
+- [ ] [70/100] Fractal Painting (painting) [url](https://training.olinfo.it/#/task/ois_painting/statement)
+- [x] Number Game (subset) [url](https://training.olinfo.it/#/task/ois_subset/statement)
+- [x] UEFA Coefficient (uefa) [url](https://training.olinfo.it/#/task/ois_uefa/statement)
+
+### Round 2, 2017-11-28
+- [x] House of cards (cards) [url](https://training.olinfo.it/#/task/ois_cards/statement)
+- [x] Algorithmic excursion (excursion) [url](https://training.olinfo.it/#/task/ois_excursion/statement)
+- [ ] Fractal graphs (fractal) [url](https://training.olinfo.it/#/task/ois_fractal/statement)
+- [ ] [90/100] Black Friday (giftcard) [url](https://training.olinfo.it/#/task/ois_giftcard/statement)
+- [x] Department blackout (recovery) [url](https://training.olinfo.it/#/task/ois_recovery/statement)
+- [x] Oral exam (threshold) [url](https://training.olinfo.it/#/task/ois_threshold/statement)
+- [x] Word search puzzle (wordsearch) [url](https://training.olinfo.it/#/task/ois_wordsearch/statement)
+
+### Round 3, 2017-12-20
+- [x] Playing with barrels (barrels) [url](https://training.olinfo.it/#/task/ois_barrels/statement)
+- [ ] Numerological prediction (bloomsday) [url](https://training.olinfo.it/#/task/ois_bloomsday/statement)
+- [x] Olympic cake (cake) [url](https://training.olinfo.it/#/task/ois_cake/statement)
+- [x] Forgotten attractions (coordonate) [url](https://training.olinfo.it/#/task/ois_coordonate/statement)
+- [x] Saddest friend (maxim) [url](https://training.olinfo.it/#/task/ois_maxim/statement)
+- [ ] Apple juice challenge (pouring) [url](https://training.olinfo.it/#/task/ois_pouring/statement)
+- [x] Gondola network (vapoare) [url](https://training.olinfo.it/#/task/ois_vapoare/statement)
+
+### Round 4, 2018-01-25
+- [x] Bitcoin trading (bitcoin) [url](https://training.olinfo.it/#/task/ois_bitcoin/statement)
+- [x] Metro platforms (metro) [url](https://training.olinfo.it/#/task/ois_metro/statement)
+- [x] Circular monuments (monuments) [url](https://training.olinfo.it/#/task/ois_monuments/statement)
+- [x] Password generator (passwords) [url](https://training.olinfo.it/#/task/ois_passwords/statement)
+- [x] Keylogger (pin) [url](https://training.olinfo.it/#/task/ois_pin/statement)
+- [ ] [75/100] Unfair review (review) [url](https://training.olinfo.it/#/task/ois_review/statement)
+- [x] Speculative execution (spectre) [url](https://training.olinfo.it/#/task/ois_spectre/statement)
+
+### Final round, 2018-02-16
+- [x] Historical revisionism (bitcoin2) [url](https://training.olinfo.it/#/task/ois_bitcoin2/statement)
+- [x] Irreversible fight (breakup) [url](https://training.olinfo.it/#/task/ois_breakup/statement)
+- [x] Copyright Notice (copyright) [url](https://training.olinfo.it/#/task/ois_copyright/statement)
+- [x] Desk ordering (desk) [url](https://training.olinfo.it/#/task/ois_desk/statement)
+- [x] Game simulator (dominion) [url](https://training.olinfo.it/#/task/ois_dominion/statement)
+- [ ] [70/100] Project groups (projectgroup) [url](https://training.olinfo.it/#/task/ois_projectgroup/statement)
+- [x] Water park (waterslide) [url](https://training.olinfo.it/#/task/ois_waterslide/statement)
+
 ## 2019 edition
 
 ### Round 1, 2018-10-26
