@@ -1,0 +1,5 @@
+4
+1 /dir-a/this-was-changed
+1 /dir-a/this-was-now-changed
+1 /dir-b/sub/this-was-changed
+1 /dir-b/sub/this-was-changed-too

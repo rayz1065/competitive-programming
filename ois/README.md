@@ -1,5 +1,64 @@
 # Informatics Olympiads in Teams
 
+## 2021 edition
+
+### Round 1, 2020-11-16
+
+- [ ] Delivery Time (delivery) [url](https://training.olinfo.it/#/task/ois_delivery/statement)
+- [ ] The Enigma of the Dungeon Cave (dungeon) [url](https://training.olinfo.it/#/task/ois_dungeon/statement)
+- [ ] Tax Fraud Detection (fraud) [url](https://training.olinfo.it/#/task/ois_fraud/statement)
+- [ ] Electrical Power Line (powerline) [url](https://training.olinfo.it/#/task/ois_powerline/statement)
+- [ ] Pordenone Hill Sign (stringstreak) [url](https://training.olinfo.it/#/task/ois_stringstreak/statement)
+- [ ] Subset Fight (subsetfight) [url](https://training.olinfo.it/#/task/ois_subsetfight/statement)
+- [ ] Swimming Pool (swimmingpool) [url](https://training.olinfo.it/#/task/ois_swimmingpool/statement)
+- [ ] Christmas Tree (xmastree) [url](https://training.olinfo.it/#/task/ois_xmastree/statement)
+- [ ] Xorstanta (xorstanta) [url](https://training.olinfo.it/#/task/ois_xorstanta/statement)
+
+### Round 2, 2020-12-15
+
+- [ ] Plan for the Worst! (airstrike) [url](https://training.olinfo.it/#/task/ois_airstrike/statement)
+- [ ] Pay That Box! Home Edition (boardgame) [url](https://training.olinfo.it/#/task/ois_boardgame/statement)
+- [ ] Coin Change (coinchange) [url](https://training.olinfo.it/#/task/ois_coinchange/statement)
+- [ ] Delayed Signals (delay) [url](https://training.olinfo.it/#/task/ois_delay/statement)
+- [ ] Quantum Magic (magic) [url](https://training.olinfo.it/#/task/ois_magic/statement)
+- [ ] Passphrase Obfuscation (passphrase) [url](https://training.olinfo.it/#/task/ois_passphrase/statement)
+- [x] Police Investigation 2 (police2) [url](https://training.olinfo.it/#/task/ois_police2/statement)
+- [ ] Crazy Roller Coaster (rollercoaster2) [url](https://training.olinfo.it/#/task/ois_rollercoaster2/statement)
+
+### Round 3, 2021-01-13
+
+- [ ] Count the Floors! (elevator) [url](https://training.olinfo.it/#/task/ois_elevator/statement)
+- [ ] Do Not Gather! (gatherings) [url](https://training.olinfo.it/#/task/ois_gatherings/statement)
+- [ ] Back to the Himalayas (himalaya) [url](https://training.olinfo.it/#/task/ois_himalaya/statement)
+- [ ] Perfect Hyperrectangle (hyperrectangle) [url](https://training.olinfo.it/#/task/ois_hyperrectangle/statement)
+- [ ] Some Infection (infection) [url](https://training.olinfo.it/#/task/ois_infection/statement)
+- [ ] Improve the Team! (lootboxes) [url](https://training.olinfo.it/#/task/ois_lootboxes/statement)
+- [ ] Prime Pancakes (pancakes) [url](https://training.olinfo.it/#/task/ois_pancakes/statement)
+- [x] Guess The Sign (sign) [url](https://training.olinfo.it/#/task/ois_sign/statement)
+- [ ] Johnnie Walker (walker) [url](https://training.olinfo.it/#/task/ois_walker/statement)
+
+### Round 4, 2021-02-04
+
+- [x] Git Status (git) [url](https://training.olinfo.it/#/task/ois_git/statement)
+- [ ] Picarats Collection (picarats) [url](https://training.olinfo.it/#/task/ois_picarats/statement)
+- [ ] Prizes Assignment (prizes) [url](https://training.olinfo.it/#/task/ois_prizes/statement)
+- [x] Perfect Pizza (recipe) [url](https://training.olinfo.it/#/task/ois_recipe/statement)
+- [x] Second Dose (seconddose) [url](https://training.olinfo.it/#/task/ois_seconddose/statement)
+- [x] Smart Thermostat (sensor) [url](https://training.olinfo.it/#/task/ois_sensor/statement)
+- [ ] Team Representatives (team) [url](https://training.olinfo.it/#/task/ois_team/statement)
+- [x] Trending Topics (trending) [url](https://training.olinfo.it/#/task/ois_trending/statement)
+
+### Final round, 2021-02-26
+
+- [x] Buy 3, Pay for 2 (3x2) [url](https://training.olinfo.it/#/task/ois_3x2/statement)
+- [ ] Saturday Night Game (collision) [url](https://training.olinfo.it/#/task/ois_collision/statement)
+- [ ] Moving Heavy Loads (crane) [url](https://training.olinfo.it/#/task/ois_crane/statement)
+- [ ] Virus Sequencing (dna) [url](https://training.olinfo.it/#/task/ois_dna/statement)
+- [x] Productivity Prize (productivity) [url](https://training.olinfo.it/#/task/ois_productivity/statement)
+- [ ] Scheduling Services (scheduling) [url](https://training.olinfo.it/#/task/ois_scheduling/statement)
+- [ ] Una Lacrima Sul Visto (visa) [url](https://training.olinfo.it/#/task/ois_visa/statement)
+- [ ] Pronounceable Words (words) [url](https://training.olinfo.it/#/task/ois_words/statement)
+
 ## 2022 edition
 
 ### Round 1, 2021-11-15
@@ -44,7 +103,7 @@
 - [x] Police Investigation 4 (police4) [url](https://training.olinfo.it/#/task/ois_police4/statement)
 - [x] Solving Wordle (wordle) [url](https://training.olinfo.it/#/task/ois_wordle/statement)
 
-### Final round, 
+### Final round, 2022-05-25
 - [x] Simple Calculator (calculator) [url](https://training.olinfo.it/#/task/ois_calculator/statement)
 - [x] Color the Points (colorpoints) [url](https://training.olinfo.it/#/task/ois_colorpoints/statement)
 - [x] Pordenone's Cyberspace (hacking) [url](https://training.olinfo.it/#/task/ois_hacking/statement)
