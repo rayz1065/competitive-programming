@@ -1,5 +1,52 @@
 # Informatics Olympiads in Teams
 
+## 2016 edition
+
+### Round 1, 2015-10-30
+- [x] Congettura di Bicollatz (bicollatz) [url](https://training.olinfo.it/#/task/ois_bicollatz/statement)
+- [x] Las Vegas (insegna) [url](https://training.olinfo.it/#/task/ois_insegna/statement)
+- [ ] Spreco di energia (energia) [url](https://training.olinfo.it/#/task/ois_energia/statement)
+- [x] Permutazione genetica (permutazione) [url](https://training.olinfo.it/#/task/ois_permutazione/statement)
+- [x] Controllo degli estintori (estintori) [url](https://training.olinfo.it/#/task/ois_estintori/statement)
+- [x] Maxi-server (ricostruzioni) [url](https://training.olinfo.it/#/task/ois_ricostruzioni/statement)
+- [ ] Genealogia antica (olimpo) [url](https://training.olinfo.it/#/task/ois_olimpo/statement)
+
+### Round 2, 2015-11-26
+- [x] Un problema di ricarica (ricarica) [url](https://training.olinfo.it/#/task/ois_ricarica/statement)
+- [x] Impila la pila (combinazione) [url](https://training.olinfo.it/#/task/ois_combinazione/statement)
+- [x] Truffa contabile (truffa) [url](https://training.olinfo.it/#/task/ois_truffa/statement)
+- [x] Zeri di coda (zeri) [url](https://training.olinfo.it/#/task/ois_zeri/statement)
+- [x] Super Marco (scrigni) [url](https://training.olinfo.it/#/task/ois_scrigni/statement)
+- [x] Shopping stress (negozi) [url](https://training.olinfo.it/#/task/ois_negozi/statement)
+- [x] Robot camminatore (robot) [url](https://training.olinfo.it/#/task/ois_robot/statement)
+
+### Round 3, 2015-12-18
+- [x] Parco avventura (carrucole) [url](https://training.olinfo.it/#/task/ois_carrucole/statement)
+- [x] Hashtag Yoda (yoda) [url](https://training.olinfo.it/#/task/ois_yoda/statement)
+- [x] Numero della cabala (cabala) [url](https://training.olinfo.it/#/task/ois_cabala/statement)
+- [x] Rollercoaster Typhoon (rollercoaster) [url](https://training.olinfo.it/#/task/ois_rollercoaster/statement)
+- [x] Super Marco 2 (monete) [url](https://training.olinfo.it/#/task/ois_monete/statement)
+- [x] Primo permissivo (primo) [url](https://training.olinfo.it/#/task/ois_primo/statement)
+- [x] Acronimi forzati (acronimi) [url](https://training.olinfo.it/#/task/ois_acronimi/statement)
+
+### Round 4, 2016-01-26
+- [x] SmartRuspa (ruspa) [url](https://training.olinfo.it/#/task/ois_ruspa/statement)
+- [x] Pausa caffè (caffe) [url](https://training.olinfo.it/#/task/ois_caffe/statement)
+- [x] Regali gemelli (regali) [url](https://training.olinfo.it/#/task/ois_regali/statement)
+- [x] Giro in bici (ciclismo) [url](https://training.olinfo.it/#/task/ois_ciclismo/statement)
+- [x] Parser HTML (html) [url](https://training.olinfo.it/#/task/ois_html/statement)
+- [x] Robot programmabile (programma) [url](https://training.olinfo.it/#/task/ois_programma/statement)
+- [ ] Tracce aliene (tracce) [url](https://training.olinfo.it/#/task/ois_tracce/statement)
+
+### Final round, 2016-02-29
+- [x] Drop-It! (dropit) [url](https://training.olinfo.it/#/task/ois_dropit/statement)
+- [x] Anno luce (annoluce) [url](https://training.olinfo.it/#/task/ois_annoluce/statement)
+- [x] Enciclopedia olimpica (enciclopedia) [url](https://training.olinfo.it/#/task/ois_enciclopedia/statement)
+- [ ] Codici interessanti (interessante) [url](https://training.olinfo.it/#/task/ois_interessante/statement)
+- [ ] Filiali bilanciate (filiali) [url](https://training.olinfo.it/#/task/ois_filiali/statement)
+- [x] Carta fedeltà (miglia) [url](https://training.olinfo.it/#/task/ois_miglia/statement)
+- [x] Labigriglia (labigriglia) [url](https://training.olinfo.it/#/task/ois_labigriglia/statement)
+
 ## 2017 edition
 
 ### Round 1, 2016-10-28
