@@ -1,5 +1,52 @@
 # Informatics Olympiads in Teams
 
+## 2015 edition
+
+### Round 1, 2014-10-29
+- [x] cAPS lOCK (capslock) [url](https://training.olinfo.it/#/task/capslock/statement)
+- [x] Biglietti a Milano (biglietti) [url](https://training.olinfo.it/#/task/biglietti/statement)
+- [ ] Fila di grattacieli (grattacieli) [url](https://training.olinfo.it/#/task/grattacieli/statement)
+- [x] Rifornimenti ai distributori (distributori) [url](https://training.olinfo.it/#/task/distributori/statement)
+- [x] Interrogazioni equilibrate (interrogazioni) [url](https://training.olinfo.it/#/task/interrogazioni/statement)
+- [x] Tagli al personale (licenziamenti) [url](https://training.olinfo.it/#/task/licenziamenti/statement)
+- [ ] Numeri di Figonacci (figonacci) [url](https://training.olinfo.it/#/task/figonacci/statement)
+
+### Round 2, 2014-11-27
+- [x] Crittografia riflessa (crittografia) [url](https://training.olinfo.it/#/task/ois_crittografia/statement)
+- [ ] Allocazione di memoria (potenze) [url](https://training.olinfo.it/#/task/ois_potenze/statement)
+- [x] Duplicato mancante (duplicato) [url](https://training.olinfo.it/#/task/ois_duplicato/statement)
+- [x] Finanza creativa (bilancio) [url](https://training.olinfo.it/#/task/ois_bilancio/statement)
+- [x] Pesci Mangioni (pesci) [url](https://training.olinfo.it/#/task/ois_pesci/statement)
+- [x] Ponti e isole (ponti) [url](https://training.olinfo.it/#/task/ois_ponti/statement)
+- [ ] Oro, argento e bronzo (medaglie) [url](https://training.olinfo.it/#/task/ois_medaglie/statement)
+
+### Round 3, 2014-12-19
+- [x] Congettura di Lollatz (lollatz) [url](https://training.olinfo.it/#/task/lollatz/statement)
+- [x] Magnetic alignment (magneti) [url](https://training.olinfo.it/#/task/ois_magneti/statement)
+- [x] Viaggio in taxi (taxi) [url](https://training.olinfo.it/#/task/taxi/statement)
+- [x] Espressione di parentesi (p`arentesi) [url](https://training`.olinfo.it/#/task/parentesi/statement)
+- [ ] Gioco del tris (tris) [url](https://training.olinfo.it/#/task/tris/statement)
+- [ ] Inviti alla festa (festa) [url](https://training.olinfo.it/#/task/festa/statement)
+- [ ] Piano degli studi (pianostudi) [url](https://training.olinfo.it/#/task/pianostudi/statement)
+
+### Round 4, 2015-01-27
+- [x] Calcolatrice d'epoca (calcolatrice) [url](https://training.olinfo.it/#/task/calcolatrice/statement)
+- [x] Assenza di gravità (gravity) [url](https://training.olinfo.it/#/task/gravity/statement)
+- [x] Piroette (piroette) [url](https://training.olinfo.it/#/task/piroette/statement)
+- [x] PaH TuNZ (remix) [url](https://training.olinfo.it/#/task/remix/statement)
+- [x] Tris in solitaria (solitario) [url](https://training.olinfo.it/#/task/ois_solitario/statement)
+- [ ] [70/100] Fette di strudel (strudel) [url](https://training.olinfo.it/#/task/strudel/statement)
+- [x] Limiti di velocità (velox) [url](https://training.olinfo.it/#/task/velox/statement)
+
+### Final round, 2015-02-23
+- [x] Dadi truccati (dadi) [url](https://training.olinfo.it/#/task/dadi/statement)
+- [x] Trampolino elastico (trampolino) [url](https://training.olinfo.it/#/task/trampolino/statement)
+- [x] Edilizia fantasiosa (costruzioni) [url](https://training.olinfo.it/#/task/costruzioni/statement)
+- [ ] Illuminazione di sala (luci) [url](https://training.olinfo.it/#/task/luci/statement)
+- [x] Torneo di rugby (rugby) [url](https://training.olinfo.it/#/task/rugby/statement)
+- [x] Spesa lampo (spesa) [url](https://training.olinfo.it/#/task/spesa/statement)
+- [x] Pranzo dalla nonna (nonna) [url](https://training.olinfo.it/#/task/nonna/statement)
+
 ## 2016 edition
 
 ### Round 1, 2015-10-30
