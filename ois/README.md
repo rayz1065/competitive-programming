@@ -1,5 +1,59 @@
 # Informatics Olympiads in Teams
 
+## 2020 edition
+
+### Round 1, 2019-11-11
+- [x] Bases Conversion (23) [url](https://training.olinfo.it/#/task/ois_23/statement)
+- [ ] Kill Those Bugs! (blindpunch) [url](https://training.olinfo.it/#/task/ois_blindpunch/statement)
+- [ ] Save The Barrels (butoaie) [url](https://training.olinfo.it/#/task/ois_butoaie/statement)
+- [ ] Fibonacci Colonies (fibonaccibug) [url](https://training.olinfo.it/#/task/ois_fibonaccibug/statement)
+- [ ] Funny Circuits (funnygraph) [url](https://training.olinfo.it/#/task/ois_funnygraph/statement)
+- [x] Improving Grades (grades) [url](https://training.olinfo.it/#/task/ois_grades/statement)
+- [x] Compulsive Smartphone Shopping (smartphone) [url](https://training.olinfo.it/#/task/ois_smartphone/statement)
+- [x] Ant Supercolonies (sprei) [url](https://training.olinfo.it/#/task/ois_sprei/statement)
+- [ ] Secret Meeting (teleport2) [url](https://training.olinfo.it/#/task/ois_teleport2/statement)
+
+### Round 2, 2019-12-17
+- [ ] [75/100] Dangerous Flowers (antennas) [url](https://training.olinfo.it/#/task/ois_antennas/statement)
+- [ ] Worst Exam Ever! (bonus) [url](https://training.olinfo.it/#/task/ois_bonus/statement)
+- [x] Orderly Evacuation (evacuation) [url](https://training.olinfo.it/#/task/ois_evacuation/statement)
+- [x] Cultural Events (events) [url](https://training.olinfo.it/#/task/ois_events/statement)
+- [x] Exam Room (examroom) [url](https://training.olinfo.it/#/task/ois_examroom/statement)
+- [x] IP Address (ip) [url](https://training.olinfo.it/#/task/ois_ip/statement)
+- [x] Maintenance Planning (machine) [url](https://training.olinfo.it/#/task/ois_machine/statement)
+- [x] Encrypted Contacts (ransomware) [url](https://training.olinfo.it/#/task/ois_ransomware/statement)
+
+### Round 3, 2020-01-15
+- [x] Mexican Standoff (dessert) [url](https://training.olinfo.it/#/task/ois_dessert/statement)
+- [ ] [?] A Fair Rock Game (fairgame) [url](https://training.olinfo.it/#/task/ois_fairgame/statement)
+- [x] Halloween Candies (halloween) [url](https://training.olinfo.it/#/task/ois_halloween/statement)
+- [x] Lightweight Ladder (ladder) [url](https://training.olinfo.it/#/task/ois_ladder/statement)
+- [x] Board Game (marcel) [url](https://training.olinfo.it/#/task/ois_marcel/statement)
+- [ ] Nice Enough Permutations (permutation) [url](https://training.olinfo.it/#/task/ois_permutation/statement)
+- [x] Police Investigation (police) [url](https://training.olinfo.it/#/task/ois_police/statement)
+- [x] Pulsating Radars (pulse) [url](https://training.olinfo.it/#/task/ois_pulse/statement)
+- [x] Musical Notes (scmax) [url](https://training.olinfo.it/#/task/ois_scmax/statement)
+
+### Round 4, 2020-02-06
+- [x] Graduation Party (confetti) [url](https://training.olinfo.it/#/task/ois_confetti/statement)
+- [x] Forum Management (forum) [url](https://training.olinfo.it/#/task/ois_forum/statement)
+- [x] Pay That Box! (gameshow) [url](https://training.olinfo.it/#/task/ois_gameshow/statement)
+- [x] Find the Treasure (islands) [url](https://training.olinfo.it/#/task/ois_islands/statement)
+- [ ] Building Mistakes (polygon) [url](https://training.olinfo.it/#/task/ois_polygon/statement)
+- [x] A Tantrum with Consequences (raid) [url](https://training.olinfo.it/#/task/ois_raid/statement)
+- [x] Ropes Escape (ropes) [url](https://training.olinfo.it/#/task/ois_ropes/statement)
+- [x] Late for Work (time) [url](https://training.olinfo.it/#/task/ois_time/statement)
+
+### Final round, 2020-02-21
+- [x] Circus Show (cannons) [url](https://training.olinfo.it/#/task/ois_cannons/statement)
+- [ ] [48/100] Multi-Layer Dictionary (dictionary) [url](https://training.olinfo.it/#/task/ois_dictionary/statement)
+- [x] Pay That Box Again! (gameshow2) [url](https://training.olinfo.it/#/task/ois_gameshow2/statement)
+- [x] Splitting the Bill (money) [url](https://training.olinfo.it/#/task/ois_money/statement)
+- [x] Flood Forecasting (rainstorm) [url](https://training.olinfo.it/#/task/ois_rainstorm/statement)
+- [x] Exam Session (studyplan) [url](https://training.olinfo.it/#/task/ois_studyplan/statement)
+- [x] Mysterious Sum (sum) [url](https://training.olinfo.it/#/task/ois_sum/statement)
+- [x] Graduation Card (text) [url](https://training.olinfo.it/#/task/ois_text/statement)
+
 ## 2021 edition
 
 ### Round 1, 2020-11-16
