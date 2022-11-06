@@ -2,10 +2,27 @@
 #define MAXN 1005
 using namespace std;
 
+chrono::_V2::system_clock::time_point start_time;
+
+int timeout_acc;
+bool is_timeout () {
+#ifdef DEBUG
+    return false;
+#endif
+    if ((++timeout_acc % 10000) != 0) {
+        return false;
+    }
+    auto elapsed = chrono::high_resolution_clock::now() - start_time;
+    long long milliseconds = chrono::duration_cast<std::chrono::milliseconds>(
+            elapsed).count();
+    return milliseconds > 1950;
+}
+
 int N, M;
 vector<int> grafo[MAXN];
 bool connesso[MAXN][MAXN];
 bool used[MAXN];
+int overlaps[MAXN];
 
 struct gruppo{
     int a;
@@ -15,7 +32,17 @@ struct gruppo{
 vector<gruppo> listaGruppi;
 vector<int> scelteMigliori;
 
-void solve(int i, vector<int> scelte){
+void print_best_solution () {
+    cout<<scelteMigliori.size()<<endl;
+    for(auto i:scelteMigliori)
+        cout<<listaGruppi[i].a<<" "<<listaGruppi[i].b<<" "<<listaGruppi[i].c<<endl;
+}
+
+void solve(int i, vector<int> &scelte){
+    if (is_timeout()) {
+        print_best_solution();
+        exit(0);
+    }
     if(i == listaGruppi.size()){
         if(scelte.size() > scelteMigliori.size())
             scelteMigliori = scelte;
@@ -37,7 +64,13 @@ void solve(int i, vector<int> scelte){
         solve(i + 1, scelte);
 }
 
+bool cmp_groups (const gruppo &a, const gruppo &b) {
+    return overlaps[a.a] + overlaps[a.b] + overlaps[a.c] < \
+           overlaps[b.a] + overlaps[b.b] + overlaps[b.c];
+}
+
 int main(){
+    start_time = chrono::high_resolution_clock::now();
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     cin>>N>>M;
@@ -57,13 +90,14 @@ int main(){
                 for(auto p:grafo[j]){
                     if(p > j && connesso[p][i]){
                         listaGruppi.push_back({i, j, p});
+                        overlaps[i]++, overlaps[j]++, overlaps[p]++;
                     }
                 }
             }
         }
     }
-    solve(0, vector<int> {});
-    cout<<scelteMigliori.size()<<endl;
-    for(auto i:scelteMigliori)
-        cout<<listaGruppi[i].a<<" "<<listaGruppi[i].b<<" "<<listaGruppi[i].c<<endl;
+    sort(listaGruppi.begin(), listaGruppi.end(), cmp_groups);
+    vector<int> scelte;
+    solve(0, scelte);
+    print_best_solution();
 }

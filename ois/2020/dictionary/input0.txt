@@ -1,0 +1,5 @@
+7
+3
+cat 3 not a dog
+dog 3 a domesticated mammal
+human 2 a mammal

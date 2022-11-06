@@ -5,7 +5,7 @@
 ### Round 1, 2014-10-29
 - [x] cAPS lOCK (capslock) [url](https://training.olinfo.it/#/task/capslock/statement)
 - [x] Biglietti a Milano (biglietti) [url](https://training.olinfo.it/#/task/biglietti/statement)
-- [ ] Fila di grattacieli (grattacieli) [url](https://training.olinfo.it/#/task/grattacieli/statement)
+- [x] Fila di grattacieli (grattacieli) [url](https://training.olinfo.it/#/task/grattacieli/statement)
 - [x] Rifornimenti ai distributori (distributori) [url](https://training.olinfo.it/#/task/distributori/statement)
 - [x] Interrogazioni equilibrate (interrogazioni) [url](https://training.olinfo.it/#/task/interrogazioni/statement)
 - [x] Tagli al personale (licenziamenti) [url](https://training.olinfo.it/#/task/licenziamenti/statement)
@@ -24,8 +24,8 @@
 - [x] Congettura di Lollatz (lollatz) [url](https://training.olinfo.it/#/task/lollatz/statement)
 - [x] Magnetic alignment (magneti) [url](https://training.olinfo.it/#/task/ois_magneti/statement)
 - [x] Viaggio in taxi (taxi) [url](https://training.olinfo.it/#/task/taxi/statement)
-- [x] Espressione di parentesi (p`arentesi) [url](https://training`.olinfo.it/#/task/parentesi/statement)
-- [ ] Gioco del tris (tris) [url](https://training.olinfo.it/#/task/tris/statement)
+- [x] Espressione di parentesi (parentesi) [url](https://training`.olinfo.it/#/task/parentesi/statement)
+- [x] Gioco del tris (tris) [url](https://training.olinfo.it/#/task/tris/statement)
 - [ ] Inviti alla festa (festa) [url](https://training.olinfo.it/#/task/festa/statement)
 - [ ] Piano degli studi (pianostudi) [url](https://training.olinfo.it/#/task/pianostudi/statement)
 
@@ -35,7 +35,7 @@
 - [x] Piroette (piroette) [url](https://training.olinfo.it/#/task/piroette/statement)
 - [x] PaH TuNZ (remix) [url](https://training.olinfo.it/#/task/remix/statement)
 - [x] Tris in solitaria (solitario) [url](https://training.olinfo.it/#/task/ois_solitario/statement)
-- [ ] [70/100] Fette di strudel (strudel) [url](https://training.olinfo.it/#/task/strudel/statement)
+- [x] Fette di strudel (strudel) [url](https://training.olinfo.it/#/task/strudel/statement)
 - [x] Limiti di velocità (velox) [url](https://training.olinfo.it/#/task/velox/statement)
 
 ### Final round, 2015-02-23
@@ -185,7 +185,7 @@
 - [x] Copyright Notice (copyright) [url](https://training.olinfo.it/#/task/ois_copyright/statement)
 - [x] Desk ordering (desk) [url](https://training.olinfo.it/#/task/ois_desk/statement)
 - [x] Game simulator (dominion) [url](https://training.olinfo.it/#/task/ois_dominion/statement)
-- [ ] [70/100] Project groups (projectgroup) [url](https://training.olinfo.it/#/task/ois_projectgroup/statement)
+- [x] Project groups (projectgroup) [url](https://training.olinfo.it/#/task/ois_projectgroup/statement)
 - [x] Water park (waterslide) [url](https://training.olinfo.it/#/task/ois_waterslide/statement)
 
 ## 2019 edition
@@ -238,7 +238,7 @@
 - [x] Gasoline Stations (gasoline) [url](https://training.olinfo.it/#/task/ois_gasoline/statement)
 - [x] Code Refactoring (refactor) [url](https://training.olinfo.it/#/task/ois_refactor/statement)
 - [ ] Nation Infrastructures (streets) [url](https://training.olinfo.it/#/task/ois_streets/statement)
-- [ ] Full-Body Workout (workout) [url](https://training.olinfo.it/#/task/ois_workout/statement)
+- [x] Full-Body Workout (workout) [url](https://training.olinfo.it/#/task/ois_workout/statement)
 
 ## 2020 edition
 
@@ -247,15 +247,15 @@
 - [ ] Kill Those Bugs! (blindpunch) [url](https://training.olinfo.it/#/task/ois_blindpunch/statement)
 - [ ] Save The Barrels (butoaie) [url](https://training.olinfo.it/#/task/ois_butoaie/statement)
 - [ ] Fibonacci Colonies (fibonaccibug) [url](https://training.olinfo.it/#/task/ois_fibonaccibug/statement)
-- [ ] Funny Circuits (funnygraph) [url](https://training.olinfo.it/#/task/ois_funnygraph/statement)
+- [x] Funny Circuits (funnygraph) [url](https://training.olinfo.it/#/task/ois_funnygraph/statement)
 - [x] Improving Grades (grades) [url](https://training.olinfo.it/#/task/ois_grades/statement)
 - [x] Compulsive Smartphone Shopping (smartphone) [url](https://training.olinfo.it/#/task/ois_smartphone/statement)
 - [x] Ant Supercolonies (sprei) [url](https://training.olinfo.it/#/task/ois_sprei/statement)
 - [ ] Secret Meeting (teleport2) [url](https://training.olinfo.it/#/task/ois_teleport2/statement)
 
 ### Round 2, 2019-12-17
-- [ ] [75/100] Dangerous Flowers (antennas) [url](https://training.olinfo.it/#/task/ois_antennas/statement)
-- [ ] Worst Exam Ever! (bonus) [url](https://training.olinfo.it/#/task/ois_bonus/statement)
+- [x] Dangerous Flowers (antennas) [url](https://training.olinfo.it/#/task/ois_antennas/statement)
+- [x] Worst Exam Ever! (bonus) [url](https://training.olinfo.it/#/task/ois_bonus/statement)
 - [x] Orderly Evacuation (evacuation) [url](https://training.olinfo.it/#/task/ois_evacuation/statement)
 - [x] Cultural Events (events) [url](https://training.olinfo.it/#/task/ois_events/statement)
 - [x] Exam Room (examroom) [url](https://training.olinfo.it/#/task/ois_examroom/statement)
@@ -286,7 +286,7 @@
 
 ### Final round, 2020-02-21
 - [x] Circus Show (cannons) [url](https://training.olinfo.it/#/task/ois_cannons/statement)
-- [ ] [48/100] Multi-Layer Dictionary (dictionary) [url](https://training.olinfo.it/#/task/ois_dictionary/statement)
+- [x] Multi-Layer Dictionary (dictionary) [url](https://training.olinfo.it/#/task/ois_dictionary/statement)
 - [x] Pay That Box Again! (gameshow2) [url](https://training.olinfo.it/#/task/ois_gameshow2/statement)
 - [x] Splitting the Bill (money) [url](https://training.olinfo.it/#/task/ois_money/statement)
 - [x] Flood Forecasting (rainstorm) [url](https://training.olinfo.it/#/task/ois_rainstorm/statement)
@@ -297,56 +297,56 @@
 ## 2021 edition
 
 ### Round 1, 2020-11-16
-- [ ] Delivery Time (delivery) [url](https://training.olinfo.it/#/task/ois_delivery/statement)
+- [x] Delivery Time (delivery) [url](https://training.olinfo.it/#/task/ois_delivery/statement)
 - [ ] The Enigma of the Dungeon Cave (dungeon) [url](https://training.olinfo.it/#/task/ois_dungeon/statement)
 - [ ] Tax Fraud Detection (fraud) [url](https://training.olinfo.it/#/task/ois_fraud/statement)
 - [ ] Electrical Power Line (powerline) [url](https://training.olinfo.it/#/task/ois_powerline/statement)
 - [ ] Pordenone Hill Sign (stringstreak) [url](https://training.olinfo.it/#/task/ois_stringstreak/statement)
 - [ ] Subset Fight (subsetfight) [url](https://training.olinfo.it/#/task/ois_subsetfight/statement)
-- [ ] Swimming Pool (swimmingpool) [url](https://training.olinfo.it/#/task/ois_swimmingpool/statement)
-- [ ] Christmas Tree (xmastree) [url](https://training.olinfo.it/#/task/ois_xmastree/statement)
+- [x] Swimming Pool (swimmingpool) [url](https://training.olinfo.it/#/task/ois_swimmingpool/statement)
+- [x] Christmas Tree (xmastree) [url](https://training.olinfo.it/#/task/ois_xmastree/statement)
 - [ ] Xorstanta (xorstanta) [url](https://training.olinfo.it/#/task/ois_xorstanta/statement)
 
 ### Round 2, 2020-12-15
 - [ ] Plan for the Worst! (airstrike) [url](https://training.olinfo.it/#/task/ois_airstrike/statement)
 - [ ] Pay That Box! Home Edition (boardgame) [url](https://training.olinfo.it/#/task/ois_boardgame/statement)
-- [ ] Coin Change (coinchange) [url](https://training.olinfo.it/#/task/ois_coinchange/statement)
+- [x] Coin Change (coinchange) [url](https://training.olinfo.it/#/task/ois_coinchange/statement)
 - [ ] Delayed Signals (delay) [url](https://training.olinfo.it/#/task/ois_delay/statement)
-- [ ] Quantum Magic (magic) [url](https://training.olinfo.it/#/task/ois_magic/statement)
+- [ ] [71.31] Quantum Magic (magic) [url](https://training.olinfo.it/#/task/ois_magic/statement)
 - [ ] Passphrase Obfuscation (passphrase) [url](https://training.olinfo.it/#/task/ois_passphrase/statement)
 - [x] Police Investigation 2 (police2) [url](https://training.olinfo.it/#/task/ois_police2/statement)
 - [ ] Crazy Roller Coaster (rollercoaster2) [url](https://training.olinfo.it/#/task/ois_rollercoaster2/statement)
 
 ### Round 3, 2021-01-13
-- [ ] Count the Floors! (elevator) [url](https://training.olinfo.it/#/task/ois_elevator/statement)
-- [ ] Do Not Gather! (gatherings) [url](https://training.olinfo.it/#/task/ois_gatherings/statement)
+- [x] Count the Floors! (elevator) [url](https://training.olinfo.it/#/task/ois_elevator/statement)
+- [x] Do Not Gather! (gatherings) [url](https://training.olinfo.it/#/task/ois_gatherings/statement)
 - [ ] Back to the Himalayas (himalaya) [url](https://training.olinfo.it/#/task/ois_himalaya/statement)
 - [ ] Perfect Hyperrectangle (hyperrectangle) [url](https://training.olinfo.it/#/task/ois_hyperrectangle/statement)
-- [ ] Some Infection (infection) [url](https://training.olinfo.it/#/task/ois_infection/statement)
-- [ ] Improve the Team! (lootboxes) [url](https://training.olinfo.it/#/task/ois_lootboxes/statement)
-- [ ] Prime Pancakes (pancakes) [url](https://training.olinfo.it/#/task/ois_pancakes/statement)
+- [x] Some Infection (infection) [url](https://training.olinfo.it/#/task/ois_infection/statement)
+- [x] Improve the Team! (lootboxes) [url](https://training.olinfo.it/#/task/ois_lootboxes/statement)
+- [x] Prime Pancakes (pancakes) [url](https://training.olinfo.it/#/task/ois_pancakes/statement)
 - [x] Guess The Sign (sign) [url](https://training.olinfo.it/#/task/ois_sign/statement)
 - [ ] Johnnie Walker (walker) [url](https://training.olinfo.it/#/task/ois_walker/statement)
 
 ### Round 4, 2021-02-04
 - [x] Git Status (git) [url](https://training.olinfo.it/#/task/ois_git/statement)
-- [ ] Picarats Collection (picarats) [url](https://training.olinfo.it/#/task/ois_picarats/statement)
-- [ ] Prizes Assignment (prizes) [url](https://training.olinfo.it/#/task/ois_prizes/statement)
+- [x] Picarats Collection (picarats) [url](https://training.olinfo.it/#/task/ois_picarats/statement)
+- [x] Prizes Assignment (prizes) [url](https://training.olinfo.it/#/task/ois_prizes/statement)
 - [x] Perfect Pizza (recipe) [url](https://training.olinfo.it/#/task/ois_recipe/statement)
 - [x] Second Dose (seconddose) [url](https://training.olinfo.it/#/task/ois_seconddose/statement)
 - [x] Smart Thermostat (sensor) [url](https://training.olinfo.it/#/task/ois_sensor/statement)
-- [ ] Team Representatives (team) [url](https://training.olinfo.it/#/task/ois_team/statement)
+- [x] Team Representatives (team) [url](https://training.olinfo.it/#/task/ois_team/statement)
 - [x] Trending Topics (trending) [url](https://training.olinfo.it/#/task/ois_trending/statement)
 
 ### Final round, 2021-02-26
 - [x] Buy 3, Pay for 2 (3x2) [url](https://training.olinfo.it/#/task/ois_3x2/statement)
 - [ ] Saturday Night Game (collision) [url](https://training.olinfo.it/#/task/ois_collision/statement)
-- [ ] Moving Heavy Loads (crane) [url](https://training.olinfo.it/#/task/ois_crane/statement)
-- [ ] Virus Sequencing (dna) [url](https://training.olinfo.it/#/task/ois_dna/statement)
+- [x] Moving Heavy Loads (crane) [url](https://training.olinfo.it/#/task/ois_crane/statement)
+- [x] Virus Sequencing (dna) [url](https://training.olinfo.it/#/task/ois_dna/statement)
 - [x] Productivity Prize (productivity) [url](https://training.olinfo.it/#/task/ois_productivity/statement)
 - [ ] Scheduling Services (scheduling) [url](https://training.olinfo.it/#/task/ois_scheduling/statement)
 - [ ] Una Lacrima Sul Visto (visa) [url](https://training.olinfo.it/#/task/ois_visa/statement)
-- [ ] Pronounceable Words (words) [url](https://training.olinfo.it/#/task/ois_words/statement)
+- [x] Pronounceable Words (words) [url](https://training.olinfo.it/#/task/ois_words/statement)
 
 ## 2022 edition
 

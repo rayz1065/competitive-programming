@@ -1,0 +1,6 @@
+52 10 5
+aaa
+baa
+aba
+abb
+aab
