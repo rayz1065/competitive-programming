@@ -53,11 +53,11 @@ def read_input ():
             test_mod = int(re.match(r'^\s*Test: divisible by (\d+)$', input()).group(1))
             if_true = int(re.match(r'^\s*If true: throw to monkey (\d+)$', input()).group(1))
             if_false = int(re.match(r'^\s*If false: throw to monkey (\d+)$', input()).group(1))
-            assert input() == ''
             if operation[1] != 'old':
                 operation = (operation[0], int(operation[1]))
             items = (int(x) for x in items_str.split(', '))
             monkeys.append(Monkey(idx, items, operation, test_mod, if_true, if_false))
+            assert input() == ''
     except EOFError:
         pass
     return monkeys
