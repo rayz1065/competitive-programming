@@ -58,5 +58,5 @@ def main ():
     print('part_1:', part_1(points))
     print('part_2:', part_2(points))
 
-
-main()
+if __name__ == '__main__':
+    main()
