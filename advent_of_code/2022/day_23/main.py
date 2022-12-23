@@ -27,9 +27,7 @@ def read_input ():
     try:
         for x in itertools.count():
             line = input()
-            for y, cell in enumerate(line):
-                if cell == '#':
-                    elfs.add((x, y))
+            elfs.update((x, y) for y, cell in enumerate(line) if cell == '#')
     except EOFError:
         pass
     return elfs
@@ -62,10 +60,7 @@ def print_grid (elfs: set):
     for x in range(min(xs) - 1, max(xs) + 2):
         line = []
         for y in range(min(ys) - 1, max(ys) + 2):
-            if (x, y) in elfs:
-                line.append('#')
-            else:
-                line.append('.')
+            line.append('#' if (x, y) in elfs else '.')
         print(''.join(line))
     print()
 
@@ -94,7 +89,7 @@ def part_1 (elfs):
 def part_2 (elfs):
     for step in itertools.count():
         res = simulate(elfs, step)
-        if len(res.intersection(elfs)) == len(elfs):
+        if len(res.symmetric_difference(elfs)) == 0:
             return step + 1
         elfs = res
 
