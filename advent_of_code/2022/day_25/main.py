@@ -1,28 +1,19 @@
+from sys import stdin
 import itertools
 
+SNAFU_MAP = {
+    '2': 2,
+    '1': 1,
+    '0': 0,
+    '-': -1,
+    '=': -2
+}
+
 def read_input ():
-    lines = []
-    try:
-        while True:
-            line = input()
-            lines.append(line)
-    except EOFError:
-        pass
-    return lines
+    return [x.strip() for x in stdin.readlines()]
 
 def snafu_to_int (num):
-    snafu_map = {
-        '2': 2,
-        '1': 1,
-        '0': 0,
-        '-': -1,
-        '=': -2
-    }
-    num = str(num)
-    s = 0
-    for i, digit in zip(range(len(num)), reversed(num)):
-        s += snafu_map[digit] * 5 ** i
-    return s
+    return sum(SNAFU_MAP[digit] * 5 ** i for i, digit in enumerate(reversed(num)))
 
 def int_to_snafu (num):
     s = []
@@ -32,15 +23,14 @@ def int_to_snafu (num):
         if num == 0:
             break
     s.append(0)
+    dig_map = {
+        3: '=',
+        4: '-',
+        5: '0'
+    }
     for i, dig in enumerate(s):
-        if dig == 3:
-            s[i] = '='
-            s[i + 1] += 1
-        elif dig == 4:
-            s[i] = '-'
-            s[i + 1] += 1
-        elif dig == 5:
-            s[i] = 0
+        if dig >= 3:
+            s[i] = dig_map[dig]
             s[i + 1] += 1
     if s[-1] == 0:
         s.pop()
