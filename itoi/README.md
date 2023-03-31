@@ -1,5 +1,16 @@
 # International Informatics Olympiads in Teams
 
+## 2017 edition
+
+### 2017-05-17
+- [x] Science Against Spam (ioit_spam) [url](https://training.olinfo.it/#/task/ioit_spam/statement)
+- [ ] Masters and Slaves (ioit_proxies) [url](https://training.olinfo.it/#/task/ioit_proxies/statement)
+- [x] Moving Paintings (ioit_paintings) [url](https://training.olinfo.it/#/task/ioit_paintings/statement)
+- [ ] Friendly Note (ioit_neighborly) [url](https://training.olinfo.it/#/task/ioit_neighborly/statement)
+- [x] City Flooding (ioit_manhole) [url](https://training.olinfo.it/#/task/ioit_manhole/statement)
+- [ ] Intrusion Detection System (ioit_laser) [url](https://training.olinfo.it/#/task/ioit_laser/statement)
+- [x] DreamTeam Selection (ioit_dreamteam) [url](https://training.olinfo.it/#/task/ioit_dreamteam/statement)
+
 ## 2021 edition
 
 ### 2021-05-08
