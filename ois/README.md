@@ -9,11 +9,11 @@
 - [x] Rifornimenti ai distributori (distributori) [url](https://training.olinfo.it/#/task/distributori/statement)
 - [x] Interrogazioni equilibrate (interrogazioni) [url](https://training.olinfo.it/#/task/interrogazioni/statement)
 - [x] Tagli al personale (licenziamenti) [url](https://training.olinfo.it/#/task/licenziamenti/statement)
-- [ ] Numeri di Figonacci (figonacci) [url](https://training.olinfo.it/#/task/figonacci/statement)
+- [x] Numeri di Figonacci (figonacci) [url](https://training.olinfo.it/#/task/figonacci/statement)
 
 ### Round 2, 2014-11-27
 - [x] Crittografia riflessa (crittografia) [url](https://training.olinfo.it/#/task/ois_crittografia/statement)
-- [ ] Allocazione di memoria (potenze) [url](https://training.olinfo.it/#/task/ois_potenze/statement)
+- [x] Allocazione di memoria (potenze) [url](https://training.olinfo.it/#/task/ois_potenze/statement)
 - [x] Duplicato mancante (duplicato) [url](https://training.olinfo.it/#/task/ois_duplicato/statement)
 - [x] Finanza creativa (bilancio) [url](https://training.olinfo.it/#/task/ois_bilancio/statement)
 - [x] Pesci Mangioni (pesci) [url](https://training.olinfo.it/#/task/ois_pesci/statement)
@@ -251,7 +251,7 @@
 - [x] Improving Grades (grades) [url](https://training.olinfo.it/#/task/ois_grades/statement)
 - [x] Compulsive Smartphone Shopping (smartphone) [url](https://training.olinfo.it/#/task/ois_smartphone/statement)
 - [x] Ant Supercolonies (sprei) [url](https://training.olinfo.it/#/task/ois_sprei/statement)
-- [ ] Secret Meeting (teleport2) [url](https://training.olinfo.it/#/task/ois_teleport2/statement)
+- [x] Secret Meeting (teleport2) [url](https://training.olinfo.it/#/task/ois_teleport2/statement)
 
 ### Round 2, 2019-12-17
 - [x] Dangerous Flowers (antennas) [url](https://training.olinfo.it/#/task/ois_antennas/statement)
@@ -313,7 +313,7 @@
 - [x] Coin Change (coinchange) [url](https://training.olinfo.it/#/task/ois_coinchange/statement)
 - [ ] Delayed Signals (delay) [url](https://training.olinfo.it/#/task/ois_delay/statement)
 - [ ] [71.31] Quantum Magic (magic) [url](https://training.olinfo.it/#/task/ois_magic/statement)
-- [ ] Passphrase Obfuscation (passphrase) [url](https://training.olinfo.it/#/task/ois_passphrase/statement)
+- [x] Passphrase Obfuscation (passphrase) [url](https://training.olinfo.it/#/task/ois_passphrase/statement)
 - [x] Police Investigation 2 (police2) [url](https://training.olinfo.it/#/task/ois_police2/statement)
 - [ ] Crazy Roller Coaster (rollercoaster2) [url](https://training.olinfo.it/#/task/ois_rollercoaster2/statement)
 
@@ -321,7 +321,7 @@
 - [x] Count the Floors! (elevator) [url](https://training.olinfo.it/#/task/ois_elevator/statement)
 - [x] Do Not Gather! (gatherings) [url](https://training.olinfo.it/#/task/ois_gatherings/statement)
 - [ ] Back to the Himalayas (himalaya) [url](https://training.olinfo.it/#/task/ois_himalaya/statement)
-- [ ] Perfect Hyperrectangle (hyperrectangle) [url](https://training.olinfo.it/#/task/ois_hyperrectangle/statement)
+- [x] Perfect Hyperrectangle (hyperrectangle) [url](https://training.olinfo.it/#/task/ois_hyperrectangle/statement)
 - [x] Some Infection (infection) [url](https://training.olinfo.it/#/task/ois_infection/statement)
 - [x] Improve the Team! (lootboxes) [url](https://training.olinfo.it/#/task/ois_lootboxes/statement)
 - [x] Prime Pancakes (pancakes) [url](https://training.olinfo.it/#/task/ois_pancakes/statement)
@@ -401,3 +401,60 @@
 - [x] Reading Papers (reading) [url](https://training.olinfo.it/#/task/ois_reading/statement)
 - [x] Drawing Slashes (slashes) [url](https://training.olinfo.it/#/task/ois_slashes/statement)
 - [x] Chess Tournament (tournament) [url](https://training.olinfo.it/#/task/ois_tournament/statement)
+
+## 2023 edition
+
+### Round 1
+- [x] Vending Machines (ois_vendingmachines) [url](https://training.olinfo.it/#/task/ois_vendingmachines/statement)
+- [x] Chess Tournament II (ois_tournament2) [url](https://training.olinfo.it/#/task/ois_tournament2/statement)
+- [ ] Weird Tree (ois_sumtree) [url](https://training.olinfo.it/#/task/ois_sumtree/statement)
+- [x] Police Patrol (ois_patrol) [url](https://training.olinfo.it/#/task/ois_patrol/statement)
+- [x] Panama Sum (ois_panama) [url](https://training.olinfo.it/#/task/ois_panama/statement)
+- [x] Monopoly Board Game (ois_monopoly) [url](https://training.olinfo.it/#/task/ois_monopoly/statement)
+- [x] Lost in Dristor 2 (ois_dristor2) [url](https://training.olinfo.it/#/task/ois_dristor2/statement)
+- [x] Palindromic Dreams (ois_dream) [url](https://training.olinfo.it/#/task/ois_dream/statement)
+- [x] Halloween Candies (ois_candies) [url](https://training.olinfo.it/#/task/ois_candies/statement)
+
+### Round 2
+- [x] Christmas Lights (ois_lights) [url](https://training.olinfo.it/#/task/ois_lights/statement)
+- [x] Scoazze (ois_scoazze) [url](https://training.olinfo.it/#/task/ois_scoazze/statement)
+- [30/100] High-Speed Railroad (ois_railroad) [url](https://training.olinfo.it/#/task/ois_railroad/statement)
+- [x] Multiplication Practice (ois_multiplication) [url](https://training.olinfo.it/#/task/ois_multiplication/statement)
+- [x] Juggling Shows (ois_intervals) [url](https://training.olinfo.it/#/task/ois_intervals/statement)
+- [ ] DinoLand Fossils (ois_fossils) [url](https://training.olinfo.it/#/task/ois_fossils/statement)
+- [ ] Formula 1 (ois_f1) [url](https://training.olinfo.it/#/task/ois_f1/statement)
+- [ ] Construct Arrays (ois_constarr) [url](https://training.olinfo.it/#/task/ois_constarr/statement)
+- [ ] Spinning Roulettes (ois_casino) [url](https://training.olinfo.it/#/task/ois_casino/statement)
+
+### Round 3
+- [ ] Interesting Tree (ois_xortree2) [url](https://training.olinfo.it/#/task/ois_xortree2/statement)
+- [x] A Break From Videogame (ois_videogame) [url](https://training.olinfo.it/#/task/ois_videogame/statement)
+- [x] Subset Count (ois_scount) [url](https://training.olinfo.it/#/task/ois_scount/statement)
+- [x] Police Patrol 2 (ois_patrol2) [url](https://training.olinfo.it/#/task/ois_patrol2/statement)
+- [55/100] Minimum Not Divisible (ois_notdivisible) [url](https://training.olinfo.it/#/task/ois_notdivisible/statement)
+- [x] A Magical Walks in a Magic Forest (ois_magicforest) [url](https://training.olinfo.it/#/task/ois_magicforest/statement)
+- [x] Small Keyboard (ois_keyboard) [url](https://training.olinfo.it/#/task/ois_keyboard/statement)
+- [x] Interval of XOR (ois_intervalxor) [url](https://training.olinfo.it/#/task/ois_intervalxor/statement)
+- [x] Flea on the Number Line (ois_flea) [url](https://training.olinfo.it/#/task/ois_flea/statement)
+- [x] Animals at the River (ois_animals) [url](https://training.olinfo.it/#/task/ois_animals/statement)
+
+### Round 4
+- [ ] Ancient Text (ois_text2) [url](https://training.olinfo.it/#/task/ois_text2/statement)
+- [ ] Tree Median (ois_median) [url](https://training.olinfo.it/#/task/ois_median/statement)
+- [ ] Planting trees (ois_lrtree) [url](https://training.olinfo.it/#/task/ois_lrtree/statement)
+- [ ] Lottery tickets (ois_lottery) [url](https://training.olinfo.it/#/task/ois_lottery/statement)
+- [ ] George Challenges the Dragon (ois_gcd) [url](https://training.olinfo.it/#/task/ois_gcd/statement)
+- [ ] Overtakings (ois_g1) [url](https://training.olinfo.it/#/task/ois_g1/statement)
+- [ ] To The Finals (ois_finals2) [url](https://training.olinfo.it/#/task/ois_finals2/statement)
+- [ ] Spring Carnival (ois_colors) [url](https://training.olinfo.it/#/task/ois_colors/statement)
+- [ ] Pile of books (ois_books) [url](https://training.olinfo.it/#/task/ois_books/statement)
+
+### Final round
+- [ ] Tom and Jerry (ois_tomjerry) [url](https://training.olinfo.it/#/task/ois_tomjerry/statement)
+- [ ] Magic Wands (ois_swaps) [url](https://training.olinfo.it/#/task/ois_swaps/statement)
+- [ ] Highway's Speed Limits (ois_speeding) [url](https://training.olinfo.it/#/task/ois_speeding/statement)
+- [ ] Loud Snacks (ois_snacks) [url](https://training.olinfo.it/#/task/ois_snacks/statement)
+- [ ] Rusco in Bologna (ois_rusco) [url](https://training.olinfo.it/#/task/ois_rusco/statement)
+- [ ] Playing Risiko (ois_risiko) [url](https://training.olinfo.it/#/task/ois_risiko/statement)
+- [ ] Fire on a Tree (ois_fire) [url](https://training.olinfo.it/#/task/ois_fire/statement)
+- [ ] Diana and Numbers (ois_div3) [url](https://training.olinfo.it/#/task/ois_div3/statement)
