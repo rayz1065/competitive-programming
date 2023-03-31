@@ -5,9 +5,9 @@ https://abc.chiodini.org/
 ## Tasks
 
 - [ ] Cenacolo (ultimacena) [url](https://training.olinfo.it/#/task/abc_ultimacena/statement)
-- [ ] Lotteria di quadri (quadri) [url](https://training.olinfo.it/#/task/abc_quadri/statement)
+- [x] Lotteria di quadri (quadri) [url](https://training.olinfo.it/#/task/abc_quadri/statement)
 - [ ] Innumerevoli progetti (progetti) [url](https://training.olinfo.it/#/task/abc_progetti/statement)
-- [ ] Crittografia RSA (rsa) [url](https://training.olinfo.it/#/task/abc_rsa/statement)
+- [x] Crittografia RSA (rsa) [url](https://training.olinfo.it/#/task/abc_rsa/statement)
 - [ ] Criptovalute (mining) [url](https://training.olinfo.it/#/task/abc_mining/statement)
 - [ ] Massima latenza II (latenza2) [url](https://training.olinfo.it/#/task/abc_latenza2/statement)
 - [x] Studio amico (studioamico) [url](https://training.olinfo.it/#/task/abc_studioamico/statement)
