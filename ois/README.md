@@ -455,6 +455,6 @@
 - [ ] Highway's Speed Limits (speeding) [url](https://training.olinfo.it/#/task/ois_speeding/statement)
 - [ ] Loud Snacks (snacks) [url](https://training.olinfo.it/#/task/ois_snacks/statement)
 - [ ] Rusco in Bologna (rusco) [url](https://training.olinfo.it/#/task/ois_rusco/statement)
-- [ ] Playing Risiko (risiko) [url](https://training.olinfo.it/#/task/ois_risiko/statement)
+- [x] Playing Risiko (risiko) [url](https://training.olinfo.it/#/task/ois_risiko/statement)
 - [ ] Fire on a Tree (fire) [url](https://training.olinfo.it/#/task/ois_fire/statement)
 - [ ] Diana and Numbers (div3) [url](https://training.olinfo.it/#/task/ois_div3/statement)
