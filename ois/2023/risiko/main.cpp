@@ -181,17 +181,16 @@ int random_swaps () {
             j += 1;
         }
         int player_i = assignment[i];
-        auto neigh_i = calc_player_neigh(i);
         int player_j = assignment[j];
         if (player_i == player_j) {
             continue ;
         }
+        auto neigh_i = calc_player_neigh(i);
         auto neigh_j = calc_player_neigh(j);
         if (!valid_swap(i, j, neigh_i, neigh_j)) {
             // illegal assignment
             continue ;
         }
-        ll delta = strengths[i] - strengths[j];
         swaps += 1;
         if (rand() % 2 && countries_count[player_i] != countries_count[player_j]) {
             if (countries_count[player_i] > countries_count[player_j]) {
