@@ -451,7 +451,7 @@
 
 ### Final round
 - [x] Tom and Jerry (tomjerry) [url](https://training.olinfo.it/#/task/ois_tomjerry/statement)
-- [ ] Magic Wands (swaps) [url](https://training.olinfo.it/#/task/ois_swaps/statement)
+- [x] Magic Wands (swaps) [url](https://training.olinfo.it/#/task/ois_swaps/statement)
 - [ ] Highway's Speed Limits (speeding) [url](https://training.olinfo.it/#/task/ois_speeding/statement)
 - [ ] Loud Snacks (snacks) [url](https://training.olinfo.it/#/task/ois_snacks/statement)
 - [ ] Rusco in Bologna (rusco) [url](https://training.olinfo.it/#/task/ois_rusco/statement)
