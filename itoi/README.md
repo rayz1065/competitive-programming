@@ -19,7 +19,7 @@
 - [x] Map of Tasks (tasks) [url](https://training.olinfo.it/#/task/itoi_tasks/statement)
 - [x] VS-Movies Group (vsmovies) [url](https://training.olinfo.it/#/task/itoi_vsmovies/statement)
 - [ ] [91/100] Weak Hash Function (weakhash) [url](https://training.olinfo.it/#/task/itoi_weakhash/statement)
-- [ ] Chimney Service (chimneys) [url](https://training.olinfo.it/#/task/itoi_chimneys/statement)
+- [x] Chimney Service (chimneys) [url](https://training.olinfo.it/#/task/itoi_chimneys/statement)
 - [x] Multiselect (selection) [url](https://training.olinfo.it/#/task/itoi_selection/statement)
 
 ## 2022 edition
