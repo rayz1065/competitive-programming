@@ -1,0 +1,11 @@
+These problems were solved but the source code is missing:
+- Language Detection
+- Virtual Friends
+- Critical Links
+- Transportation system.
+- Dark roads
+- Expensive subway
+- Airports
+- Injured Queen Problem
+- Checkers
+- Bachet's Game

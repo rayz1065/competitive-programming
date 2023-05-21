@@ -1,0 +1,9 @@
+AH JS 5S 9C KD 2H JS 5S 9C KD # high card
+AH AS 5S 9C KD 2H 2S 5S 9C KD # pair
+AH AS 5S 5C KD 2H 2S 5S 5C KD # two pairs
+AH AS AD 9C KD 2H 2S 2D 9C KD # three of a kind
+AH KS QS JS TS 9H KS QS JS TS # straight
+2S KS QS JS TS 3S KS QS JS TS # flush
+AH AS AD 9C 9D 2H 2S 2D 9C 9D # full house
+AH AS AD AC KD 2H 2S 2D 2C KD # four of a kind
+AS KS QS JS TS 9S KS QS JS TS # straight flush
