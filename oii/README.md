@@ -220,3 +220,18 @@
 - [x] Episodio II: un lungo viaggio (bus) [url](https://training.olinfo.it/#/task/oii_bus/statement)
 - [x] Episodio III: la coda per il buffet (coda) [url](https://training.olinfo.it/#/task/oii_coda/statement)
 - [x] Episodio IV: tracce di DNA (dna) [url](https://training.olinfo.it/#/task/oii_dna/statement)
+
+## 2023
+
+### Pre-OII
+- [ ] Esplorazione spaziale (preoii_chquery) [url](https://training.olinfo.it/#/task/preoii_chquery/statement)
+- [ ] Circuito elettrico (preoii_lampadine) [url](https://training.olinfo.it/#/task/preoii_lampadine/statement)
+- [ ] Ritorno dal Giappone (preoii_voli) [url](https://training.olinfo.it/#/task/preoii_voli/statement)
+- [ ] B.F.S. (preoii_streaming) [url](https://training.olinfo.it/#/task/preoii_streaming/statement)
+- [ ] Foto d'epoca (preoii_foto) [url](https://training.olinfo.it/#/task/preoii_foto/statement)
+
+### Finals
+- [ ] Disegni di Mondrian (oii_disegno) [url](https://training.olinfo.it/#/task/oii_disegno/statement)
+- [x] Arte nei corridoi (oii_corridoi) [url](https://training.olinfo.it/#/task/oii_corridoi/statement)
+- [x] Le mura di Bergamo (oii_bastioni) [url](https://training.olinfo.it/#/task/oii_bastioni/statement)
+- [x] Vetrate colorate (oii_artemoderna) [url](https://training.olinfo.it/#/task/oii_artemoderna/statement)
