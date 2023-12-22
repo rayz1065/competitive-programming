@@ -404,7 +404,7 @@
 
 ## 2023 edition
 
-### Round 1
+### Round 1, 2022-11-14
 - [x] Vending Machines (vendingmachines) [url](https://training.olinfo.it/#/task/ois_vendingmachines/statement)
 - [x] Chess Tournament II (tournament2) [url](https://training.olinfo.it/#/task/ois_tournament2/statement)
 - [ ] Weird Tree (sumtree) [url](https://training.olinfo.it/#/task/ois_sumtree/statement)
@@ -415,7 +415,7 @@
 - [x] Palindromic Dreams (dream) [url](https://training.olinfo.it/#/task/ois_dream/statement)
 - [x] Halloween Candies (candies) [url](https://training.olinfo.it/#/task/ois_candies/statement)
 
-### Round 2
+### Round 2, 2022-12-13
 - [x] Christmas Lights (lights) [url](https://training.olinfo.it/#/task/ois_lights/statement)
 - [x] Scoazze (scoazze) [url](https://training.olinfo.it/#/task/ois_scoazze/statement)
 - [30/100] High-Speed Railroad (railroad) [url](https://training.olinfo.it/#/task/ois_railroad/statement)
@@ -426,7 +426,7 @@
 - [ ] Construct Arrays (constarr) [url](https://training.olinfo.it/#/task/ois_constarr/statement)
 - [ ] Spinning Roulettes (casino) [url](https://training.olinfo.it/#/task/ois_casino/statement)
 
-### Round 3
+### Round 3, 2023-01-11
 - [ ] Interesting Tree (xortree2) [url](https://training.olinfo.it/#/task/ois_xortree2/statement)
 - [x] A Break From Videogame (videogame) [url](https://training.olinfo.it/#/task/ois_videogame/statement)
 - [x] Subset Count (scount) [url](https://training.olinfo.it/#/task/ois_scount/statement)
@@ -438,7 +438,7 @@
 - [x] Flea on the Number Line (flea) [url](https://training.olinfo.it/#/task/ois_flea/statement)
 - [x] Animals at the River (animals) [url](https://training.olinfo.it/#/task/ois_animals/statement)
 
-### Round 4
+### Round 4, 2023-02-09
 - [x] Ancient Text (text2) [url](https://training.olinfo.it/#/task/ois_text2/statement)
 - [ ] Tree Median (median) [url](https://training.olinfo.it/#/task/ois_median/statement)
 - [x] Planting trees (lrtree) [url](https://training.olinfo.it/#/task/ois_lrtree/statement)
@@ -449,7 +449,7 @@
 - [x] Spring Carnival (colors) [url](https://training.olinfo.it/#/task/ois_colors/statement)
 - [x] Pile of books (books) [url](https://training.olinfo.it/#/task/ois_books/statement)
 
-### Final round
+### Final round, 2023-03-10
 - [x] Tom and Jerry (tomjerry) [url](https://training.olinfo.it/#/task/ois_tomjerry/statement)
 - [x] Magic Wands (swaps) [url](https://training.olinfo.it/#/task/ois_swaps/statement)
 - [x] Highway's Speed Limits (speeding) [url](https://training.olinfo.it/#/task/ois_speeding/statement)
@@ -458,3 +458,28 @@
 - [x] Playing Risiko (risiko) [url](https://training.olinfo.it/#/task/ois_risiko/statement)
 - [x] Fire on a Tree (fire) [url](https://training.olinfo.it/#/task/ois_fire/statement)
 - [x] Diana and Numbers (div3) [url](https://training.olinfo.it/#/task/ois_div3/statement)
+
+## 2024 edition
+
+### Round 1, 2023-11-13
+
+- [ ] Ping-pong (ois_pingpong) [url](https://training.olinfo.it/#/task/ois_pingpong/statement)
+- [ ] Long Chain (ois_longchain) [url](https://training.olinfo.it/#/task/ois_longchain/statement)
+- [ ] Binary Chess (ois_binarychess) [url](https://training.olinfo.it/#/task/ois_binarychess/statement)
+- [ ] Precise Average (ois_avg) [url](https://training.olinfo.it/#/task/ois_avg/statement)
+- [ ] Periodic Words (ois_periodicwords) [url](https://training.olinfo.it/#/task/ois_periodicwords/statement)
+- [ ] Excellent Numbers (ois_excellent) [url](https://training.olinfo.it/#/task/ois_excellent/statement)
+- [ ] Baby Bob's Bracket Sequence (ois_brackets2) [url](https://training.olinfo.it/#/task/ois_brackets2/statement)
+- [ ] Destroy the Village (ois_barbarian) [url](https://training.olinfo.it/#/task/ois_barbarian/statement)
+- [ ] Area Under Path (ois_areaunderpath) [url](https://training.olinfo.it/#/task/ois_areaunderpath/statement)
+
+### Round 2, 2023-12-13
+- [ ] Good Intervals (ois_intervals2) [url](https://training.olinfo.it/#/task/ois_intervals2/statement)
+- [x] Tulip Bouquets (ois_tulips) [url](https://training.olinfo.it/#/task/ois_tulips/statement)
+- [ ] Swapping Digits (ois_swappingdigits) [url](https://training.olinfo.it/#/task/ois_swappingdigits/statement)
+- [ ] String Imbalance (ois_stringimbalance) [url](https://training.olinfo.it/#/task/ois_stringimbalance/statement)
+- [ ] Pac-Man (ois_pacman) [url](https://training.olinfo.it/#/task/ois_pacman/statement)
+- [ ] Increasing XOR (ois_increasingxor) [url](https://training.olinfo.it/#/task/ois_increasingxor/statement)
+- [ ] The Jeweller's Game (ois_gemgame) [url](https://training.olinfo.it/#/task/ois_gemgame/statement)
+- [x] Farmula 1 (ois_farmula1) [url](https://training.olinfo.it/#/task/ois_farmula1/statement)
+- [x] Precise Average 2 (ois_avg2) [url](https://training.olinfo.it/#/task/ois_avg2/statement)
