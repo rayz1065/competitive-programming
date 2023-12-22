@@ -30,3 +30,17 @@
 - [x] Connect the Dots (nostar) [url](https://training.olinfo.it/#/task/nostar/statement)
 - [x] Picnic's Table (picnic) [url](https://training.olinfo.it/#/task/picnic/statement)
 - [x] Big Stonks (stonks) [url](https://training.olinfo.it/#/task/stonks/statement)
+
+## 2023 edition
+
+### 2023-05-30
+
+- [ ] Tour de Treeland (iiot_tourdetree) [url](https://training.olinfo.it/#/task/iiot_tourdetree/statement)
+- [x] Winning Tetris (iiot_tetris) [url](https://training.olinfo.it/#/task/iiot_tetris/statement)
+- [ ] Public Transport (iiot_publictransport) [url](https://training.olinfo.it/#/task/iiot_publictransport/statement)
+- [ ] Game on a Matrix (iiot_matgame) [url](https://training.olinfo.it/#/task/iiot_matgame/statement)
+- [ ] Rank Queries on a Tree (iiot_ktree) [url](https://training.olinfo.it/#/task/iiot_ktree/statement)
+- [ ] Problem Fence (iiot_fence) [url](https://training.olinfo.it/#/task/iiot_fence/statement)
+- [ ] Cyclic Vigenere Cipher (iiot_cipher) [url](https://training.olinfo.it/#/task/iiot_cipher/statement)
+- [ ] Binge Watching (iiot_binge) [url](https://training.olinfo.it/#/task/iiot_binge/statement)
+- [ ] Distributing Hat (iiot_abc) [url](https://training.olinfo.it/#/task/iiot_abc/statement)
