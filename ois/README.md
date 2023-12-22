@@ -52,7 +52,7 @@
 ### Round 1, 2015-10-30
 - [x] Congettura di Bicollatz (bicollatz) [url](https://training.olinfo.it/#/task/ois_bicollatz/statement)
 - [x] Las Vegas (insegna) [url](https://training.olinfo.it/#/task/ois_insegna/statement)
-- [ ] Spreco di energia (energia) [url](https://training.olinfo.it/#/task/ois_energia/statement)
+- [x] Spreco di energia (energia) [url](https://training.olinfo.it/#/task/ois_energia/statement)
 - [x] Permutazione genetica (permutazione) [url](https://training.olinfo.it/#/task/ois_permutazione/statement)
 - [x] Controllo degli estintori (estintori) [url](https://training.olinfo.it/#/task/ois_estintori/statement)
 - [x] Maxi-server (ricostruzioni) [url](https://training.olinfo.it/#/task/ois_ricostruzioni/statement)
