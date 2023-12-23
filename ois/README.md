@@ -478,7 +478,7 @@
 - [x] Tulip Bouquets (ois_tulips) [url](https://training.olinfo.it/#/task/ois_tulips/statement)
 - [ ] Swapping Digits (ois_swappingdigits) [url](https://training.olinfo.it/#/task/ois_swappingdigits/statement)
 - [ ] String Imbalance (ois_stringimbalance) [url](https://training.olinfo.it/#/task/ois_stringimbalance/statement)
-- [ ] Pac-Man (ois_pacman) [url](https://training.olinfo.it/#/task/ois_pacman/statement)
+- [x] Pac-Man (ois_pacman) [url](https://training.olinfo.it/#/task/ois_pacman/statement)
 - [ ] Increasing XOR (ois_increasingxor) [url](https://training.olinfo.it/#/task/ois_increasingxor/statement)
 - [ ] The Jeweller's Game (ois_gemgame) [url](https://training.olinfo.it/#/task/ois_gemgame/statement)
 - [x] Farmula 1 (ois_farmula1) [url](https://training.olinfo.it/#/task/ois_farmula1/statement)
