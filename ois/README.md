@@ -463,10 +463,10 @@
 
 ### Round 1, 2023-11-13
 
-- [ ] Ping-pong (ois_pingpong) [url](https://training.olinfo.it/#/task/ois_pingpong/statement)
+- [x] Ping-pong (ois_pingpong) [url](https://training.olinfo.it/#/task/ois_pingpong/statement)
 - [ ] Long Chain (ois_longchain) [url](https://training.olinfo.it/#/task/ois_longchain/statement)
 - [ ] Binary Chess (ois_binarychess) [url](https://training.olinfo.it/#/task/ois_binarychess/statement)
-- [ ] Precise Average (ois_avg) [url](https://training.olinfo.it/#/task/ois_avg/statement)
+- [x] Precise Average (ois_avg) [url](https://training.olinfo.it/#/task/ois_avg/statement)
 - [ ] Periodic Words (ois_periodicwords) [url](https://training.olinfo.it/#/task/ois_periodicwords/statement)
 - [ ] Excellent Numbers (ois_excellent) [url](https://training.olinfo.it/#/task/ois_excellent/statement)
 - [ ] Baby Bob's Bracket Sequence (ois_brackets2) [url](https://training.olinfo.it/#/task/ois_brackets2/statement)
@@ -476,7 +476,7 @@
 ### Round 2, 2023-12-13
 - [ ] Good Intervals (ois_intervals2) [url](https://training.olinfo.it/#/task/ois_intervals2/statement)
 - [x] Tulip Bouquets (ois_tulips) [url](https://training.olinfo.it/#/task/ois_tulips/statement)
-- [ ] Swapping Digits (ois_swappingdigits) [url](https://training.olinfo.it/#/task/ois_swappingdigits/statement)
+- [x] Swapping Digits (ois_swappingdigits) [url](https://training.olinfo.it/#/task/ois_swappingdigits/statement)
 - [ ] String Imbalance (ois_stringimbalance) [url](https://training.olinfo.it/#/task/ois_stringimbalance/statement)
 - [x] Pac-Man (ois_pacman) [url](https://training.olinfo.it/#/task/ois_pacman/statement)
 - [ ] Increasing XOR (ois_increasingxor) [url](https://training.olinfo.it/#/task/ois_increasingxor/statement)
