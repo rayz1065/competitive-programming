@@ -483,3 +483,25 @@
 - [ ] The Jeweller's Game (ois_gemgame) [url](https://training.olinfo.it/#/task/ois_gemgame/statement)
 - [x] Farmula 1 (ois_farmula1) [url](https://training.olinfo.it/#/task/ois_farmula1/statement)
 - [x] Precise Average 2 (ois_avg2) [url](https://training.olinfo.it/#/task/ois_avg2/statement)
+
+### Round 3, 2024-01-17
+- [x] Duplicated Usernames (ois_usernames2) [url](https://training.olinfo.it/#/task/ois_usernames2/statement)
+- [ ] Strange Operation (ois_strangeoperation) [url](https://training.olinfo.it/#/task/ois_strangeoperation/statement)
+- [x] Largest Rectangle (ois_rectangle) [url](https://training.olinfo.it/#/task/ois_rectangle/statement)
+- [x] Tuscan Peaks (ois_peaks) [url](https://training.olinfo.it/#/task/ois_peaks/statement)
+- [ ] Stefan's New Year's resolutions (ois_manymax) [url](https://training.olinfo.it/#/task/ois_manymax/statement)
+- [x] Excellent Numbers 2 (ois_excellent2) [url](https://training.olinfo.it/#/task/ois_excellent2/statement)
+- [x] Dog Trick Competition (ois_dogtrick) [url](https://training.olinfo.it/#/task/ois_dogtrick/statement)
+- [ ] Carry Bit (ois_carry) [url](https://training.olinfo.it/#/task/ois_carry/statement)
+- [x] Swapping Brackets (ois_bracketswap) [url](https://training.olinfo.it/#/task/ois_bracketswap/statement)
+
+### Round 4, 
+- [x] K-step Tree (ois_treeancestor) [url](https://training.olinfo.it/#/task/ois_treeancestor/statement)
+- [ ] The Strongest Teams for IKPC (ois_strongestteams) [url](https://training.olinfo.it/#/task/ois_strongestteams/statement)
+- [x] Quadrilateral Check (ois_quadrilateral) [url](https://training.olinfo.it/#/task/ois_quadrilateral/statement)
+- [x] Jobstown Millionaire (ois_jobs) [url](https://training.olinfo.it/#/task/ois_jobs/statement)
+- [ ] An RGB Masterpiece (ois_grid) [url](https://training.olinfo.it/#/task/ois_grid/statement)
+- [x] Dog Trick Competition 2 (ois_dogtrick2) [url](https://training.olinfo.it/#/task/ois_dogtrick2/statement)
+- [x] Stefan Mastering Chess (ois_chess3) [url](https://training.olinfo.it/#/task/ois_chess3/statement)
+- [x] Sort the Toy Cars (ois_cars) [url](https://training.olinfo.it/#/task/ois_cars/statement)
+- [x] Planning Excursions (ois_amazon) [url](https://training.olinfo.it/#/task/ois_amazon/statement)
