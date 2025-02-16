@@ -1,6 +1,6 @@
 # CSES Problem Set
 
-https://cses.fi
+<https://cses.fi>
 
 ## Introductory Problems
 
