@@ -53,11 +53,6 @@
 - [ ] Making boxes (unimi_box) [url](https://training.olinfo.it/#/task/unimi_box/statement)
 - [ ] Balanced (unimi_balance) [url](https://training.olinfo.it/#/task/unimi_balance/statement)
 
-## Fri
-- [ ] Terrazzamenti (fri_terrazzamenti) [url](https://training.olinfo.it/#/task/fri_terrazzamenti/statement)
-- [ ] Rete idrica (fri_tubature) [url](https://training.olinfo.it/#/task/fri_tubature/statement)
-- [x] Mario e le sue monete (fri_monete) [url](https://training.olinfo.it/#/task/fri_monete/statement)
-
 ## Gara di selezione ACM-ICPC – il ritorno
 - [x] Hello World! (helloworld) [url](https://training.olinfo.it/#/task/helloworld/statement)
 - [x] Matrice prima (matrice) [url](https://training.olinfo.it/#/task/matrice/statement)
