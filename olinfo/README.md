@@ -24,6 +24,9 @@
 - [x] ZigZag (zigzag) [url](https://training.olinfo.it/#/task/zigzag/statement)
 - [x] Vortex Improved Motors (vim) [url](https://training.olinfo.it/#/task/vim/statement)
 - [65.62/100] Mastermind (mastermind) [url](https://training.olinfo.it/#/task/mastermind/submissions)
+- [x] Cammino minimo (mincammino2) [url](https://training.olinfo.it/task/mincammino2)
+- [x] Connessioni di rete (connessioni) [url](https://training.olinfo.it/task/connessioni)
+- [x] Museo di Pontedera (museo) [url](https://training.olinfo.it/task/museo)
 
 ## Garastage
 
