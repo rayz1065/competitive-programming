@@ -10,3 +10,6 @@ https://usaco.org
 - [x] Disruption [url](https://usaco.org/index.php?page=viewproblem2&cpid=842)
 - [x] Milk Visits [url](https://usaco.org/index.php?page=viewproblem2&cpid=970)
 - [x] Cow Land [url](https://usaco.org/index.php?page=viewproblem2&cpid=921)
+- [x] Springboards [url](https://usaco.org/index.php?page=viewproblem2&cpid=995)
+- [x] Load Balancing [url](https://usaco.org/index.php?page=viewproblem2&cpid=624)
+- [x] Cowpatibility [url](https://usaco.org/index.php?page=viewproblem2&cpid=862)
