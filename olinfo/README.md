@@ -26,17 +26,20 @@
 - [65.62/100] Mastermind (mastermind) [url](https://training.olinfo.it/#/task/mastermind/submissions)
 
 ## Garastage
+
 - [x] dijkstra (dijkstra) [url](https://training.olinfo.it/#/task/dijkstra/statement)
 - [75/100] Subtrees’ mode (subtreemode) [url](https://training.olinfo.it/#/task/subtreemode/statement)
 - [x] Implement a segment tree (segtree) [url](https://training.olinfo.it/#/task/segtree/statement)
 
 ## Pre-boi
+
 - [x] Formiche, che soggetto! (pre_boi_versi) [url](https://training.olinfo.it/#/task/pre_boi_versi/statement)
 - [x] Fuga da Varaždin (pre_boi_sbarramento) [url](https://training.olinfo.it/#/task/pre_boi_sbarramento/statement)
 - [x] Indecisioni su array (pre_boi_git) [url](https://training.olinfo.it/#/task/pre_boi_git/statement)
 - [x] Chi cerchia trova (pre_boi_cerchi) [url](https://training.olinfo.it/#/task/pre_boi_cerchi/statement)
 
 ## Pre-egoi
+
 - [x] Sui tetti di Pisa (pre-egoi-parkour) [url](https://training.olinfo.it/#/task/pre-egoi-parkour/statement)
 - [x] Torta di Compleanno (pre-egoi-torta) [url](https://training.olinfo.it/#/task/pre-egoi-torta/statement)
 - [x] Festa Estiva (pre-egoi-festaestiva) [url](https://training.olinfo.it/#/task/pre-egoi-festaestiva/statement)
@@ -44,6 +47,7 @@
 - [x] Gelati costosi (pre-egoi-gelato) [url](https://training.olinfo.it/#/task/pre-egoi-gelato/statement)
 
 ## Unimi
+
 - [ ] Tax avoidance (unimi_tax) [url](https://training.olinfo.it/#/task/unimi_tax/statement)
 - [ ] Sushi bar (unimi_sushi) [url](https://training.olinfo.it/#/task/unimi_sushi/statement)
 - [ ] Stars (unimi_star) [url](https://training.olinfo.it/#/task/unimi_star/statement)
@@ -54,6 +58,7 @@
 - [ ] Balanced (unimi_balance) [url](https://training.olinfo.it/#/task/unimi_balance/statement)
 
 ## Gara di selezione ACM-ICPC – il ritorno
+
 - [x] Hello World! (helloworld) [url](https://training.olinfo.it/#/task/helloworld/statement)
 - [x] Matrice prima (matrice) [url](https://training.olinfo.it/#/task/matrice/statement)
 - [x] Prefisso telefonico (prefisso) [url](https://training.olinfo.it/#/task/prefisso/statement)
@@ -61,6 +66,7 @@
 - [x] Viaggio (viaggio) [url](https://training.olinfo.it/#/task/viaggio/statement)
 
 ## Mat
+
 - [x] Battaglia in pizzeria (mat_pizzeria) [url](https://training.olinfo.it/#/task/mat_pizzeria/statement)
 - [x] Convegno aziendale (mat_convegno) [url](https://training.olinfo.it/#/task/mat_convegno/statement)
 - [x] Combinazione (mat_comb) [url](https://training.olinfo.it/#/task/mat_comb/statement)
@@ -69,6 +75,14 @@
 - [x] Menù giapponese (mat_menu) [url](https://training.olinfo.it/#/task/mat_menu/statement)
 
 ## Roiti
+
 - [x] L33t H4xX0R (roiti_password) [url](https://training.olinfo.it/#/task/roiti_password/statement)
 - [x] Ma chi è quel mona? (roiti_porte) [url](https://training.olinfo.it/#/task/roiti_porte/statement)
 - [ ] Seduta plenaria (roiti_plenaria) [url](https://training.olinfo.it/#/task/roiti_plenaria/statement)
+
+## ITDay
+
+- [ ] Lavinia stalker (itday_stalker) [url](https://training.olinfo.it/#/task/itday_stalker/statement)
+- [ ] Il crescione perfetto (itday_cesena) [url](https://training.olinfo.it/#/task/itday_cesena/statement)
+- [x] Mazzi di carte (itday_carte) [url](https://training.olinfo.it/#/task/itday_carte/statement)
+- [x] Giardino di Budrio (itday_piante) [url](https://training.olinfo.it/#/task/itday_piante/statement)
