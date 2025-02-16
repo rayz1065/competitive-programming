@@ -22,7 +22,7 @@ https://cses.fi
 - [x] Apple Division [url](https://cses.fi/problemset/task/1623)
 - [x] Chessboard and Queens [url](https://cses.fi/problemset/task/1624)
 - [x] Digit Queries [url](https://cses.fi/problemset/task/2431)
-- [ ] Grid Paths [url](https://cses.fi/problemset/task/1625)
+- [x] Grid Paths [url](https://cses.fi/problemset/task/1625)
 
 ## Sorting and Searching
 
@@ -45,7 +45,7 @@ https://cses.fi
 - [x] Josephus Problem II [url](https://cses.fi/problemset/task/2163)
 - [x] Nested Ranges Check [url](https://cses.fi/problemset/task/2168)
 - [ ] Nested Ranges Count [url](https://cses.fi/problemset/task/2169)
-- [ ] Room Allocation [url](https://cses.fi/problemset/task/1164)
+- [x] Room Allocation [url](https://cses.fi/problemset/task/1164)
 - [ ] Factory Machines [url](https://cses.fi/problemset/task/1620)
 - [ ] Tasks and Deadlines [url](https://cses.fi/problemset/task/1630)
 - [ ] Reading Books [url](https://cses.fi/problemset/task/1631)
@@ -274,7 +274,7 @@ https://cses.fi
 - [ ] Tree Traversals [url](https://cses.fi/problemset/task/1702)
 - [ ] Network Renovation [url](https://cses.fi/problemset/task/1704)
 - [ ] Graph Girth [url](https://cses.fi/problemset/task/1707)
-- [ ] Intersection Points [url](https://cses.fi/problemset/task/1740)
+- [x] Intersection Points [url](https://cses.fi/problemset/task/1740)
 - [ ] Inverse Inversions [url](https://cses.fi/problemset/task/2214)
 - [ ] Monotone Subsequences [url](https://cses.fi/problemset/task/2215)
 - [ ] String Reorder [url](https://cses.fi/problemset/task/1743)
