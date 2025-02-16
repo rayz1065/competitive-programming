@@ -1,5 +1,17 @@
 # Italian Olympiads in Informatics
 
+## 2002
+
+### Finals
+
+- [ ] Borse di studio (oii_borse) [url](https://training.olinfo.it/#/task/oii_borse/statement)
+
+## 2003
+
+### Finals
+
+- [ ] Alberi (alberi) [url](https://training.olinfo.it/#/task/alberi/statement)
+
 ## 2004
 
 ### Regionals
@@ -25,9 +37,9 @@
 
 ### Finals
 
-- [ ] Somme di sequenze (somme) [url](https://training.olinfo.it/#/task/somme/statement)
-- [ ] Petali di margherita (petali) [url](https://training.olinfo.it/#/task/petali/statement)
-- [ ] Dominatori di torneo (domina) [url](https://training.olinfo.it/#/task/domina/statement)
+- [ ] Somme di sequenze (oii_somme) [url](https://training.olinfo.it/#/task/oii_somme/statement)
+- [ ] Petali di margherita (oii_petali) [url](https://training.olinfo.it/#/task/oii_petali/statement)
+- [ ] Dominatori di torneo (oii_domina) [url](https://training.olinfo.it/#/task/oii_domina/statement)
 
 ## 2008
 
@@ -39,10 +51,9 @@
 
 ### Finals
 
-- [ ] Missioni segrete (missioni) [url](https://training.olinfo.it/#/task/missioni/statement)
-- [ ] Parole saturnine (parole) [url](https://training.olinfo.it/#/task/parole/statement)
-- [ ] Giornalismo d'inchiesta (triade) [url](https://training.olinfo.it/#/task/triade/statement)
-- [x] Troupe televisive (cnn) [url](https://training.olinfo.it/#/task/cnn/statement)
+- [ ] Parole saturnine (oii_parole) [url](https://training.olinfo.it/#/task/oii_parole/statement)
+- [ ] Giornalismo d'inchiesta (oii_triade) [url](https://training.olinfo.it/#/task/oii_triade/statement)
+- [x] Troupe televisive (oii_cnn) [url](https://training.olinfo.it/#/task/oii_cnn/statement)
 
 ## 2009
 
@@ -60,9 +71,9 @@
 
 ### Finals
 
-- [x] Numeri antipatici (numeri) [url](https://training.olinfo.it/#/task/numeri/statement)
-- [ ] Pesca bizzarra (pesca) [url](https://training.olinfo.it/#/task/pesca/statement)
-- [ ] Tè con gli amici (amici) [url](https://training.olinfo.it/#/task/amici/statement)
+- [x] Numeri antipatici (oii_numeri) [url](https://training.olinfo.it/#/task/oii_numeri/statement)
+- [ ] Pesca bizzarra (oii_pesca) [url](https://training.olinfo.it/#/task/oii_pesca/statement)
+- [ ] Tè con gli amici (oii_amici) [url](https://training.olinfo.it/#/task/oii_amici/statement)
 
 ## 2011
 
@@ -73,10 +84,10 @@
 
 ### Finals
 
-- [x] Salti spettacolari (salti) [url](https://training.olinfo.it/#/task/salti/statement)
-- [ ] Per un pugno di baht (baht) [url](https://training.olinfo.it/#/task/baht/statement)
-- [ ] Fuga dagli inseguitori (fuga) [url](https://training.olinfo.it/#/task/fuga/statement)
-- [ ] Scuola di supereroi (scuola) [url](https://training.olinfo.it/#/task/scuola/statement)
+- [x] Salti spettacolari (oii_salti) [url](https://training.olinfo.it/#/task/oii_salti/statement)
+- [ ] Per un pugno di baht (oii_baht) [url](https://training.olinfo.it/#/task/oii_baht/statement)
+- [ ] Fuga dagli inseguitori (oii_fuga) [url](https://training.olinfo.it/#/task/oii_fuga/statement)
+- [ ] Scuola di supereroi (oii_scuola) [url](https://training.olinfo.it/#/task/oii_scuola/statement)
 
 ## 2012
 
@@ -89,10 +100,10 @@
 
 ### Finals
 
-- [ ] Salta il coniglietto (salta) [url](https://training.olinfo.it/#/task/salta/statement)
-- [ ] [35/100] Scrivere senza staccare la matita dal foglio (matita) [url](https://training.olinfo.it/#/task/matita/statement)
+- [ ] Salta il coniglietto (oii_salta) [url](https://training.olinfo.it/#/task/oii_salta/statement)
+- [ ] Scrivere senza staccare la matita dal foglio (oii_matita) [url](https://training.olinfo.it/#/task/oii_matita/statement)
 - [ ] Stringhe di Fibonacci (fibstr) [url](https://training.olinfo.it/#/task/fibstr/statement)
-- [x] Espressioni senza operatori (eso) [url](https://training.olinfo.it/#/task/eso/statement)
+- [x] Espressioni senza operatori (oii_eso) [url](https://training.olinfo.it/#/task/oii_eso/statement)
 
 ## 2013
 
@@ -103,9 +114,10 @@
 
 ### Finals
 
-- [ ] Allenamento per la maratona (fontane) [url](https://training.olinfo.it/#/task/fontane/statement)
-- [x] Entscheidungsproblem (fermata) [url](https://training.olinfo.it/#/task/fermata/statement)
-- [x] La battaglia del convoglio (convoglio) [url](https://training.olinfo.it/#/task/convoglio/statement)
+- [ ] Allenamento per la maratona (oii_fontane) [url](https://training.olinfo.it/#/task/oii_fontane/statement)
+- [x] Entscheidungsproblem (oii_fermata) [url](https://training.olinfo.it/#/task/oii_fermata/statement)
+- [x] La battaglia del convoglio (oii_convoglio) [url](https://training.olinfo.it/#/task/oii_convoglio/statement)
+- [ ] Stringhe di Fibonacci (oii_fibstr) [url](https://training.olinfo.it/#/task/oii_fibstr/statement)
 
 ## 2014
 
@@ -136,9 +148,9 @@
 
 ### Finals
 
-- [x] Spiedini di frutta (spiedini) [url](https://training.olinfo.it/#/task/spiedini/statement)
-- [x] Maree a Venezia (maree) [url](https://training.olinfo.it/#/task/maree/statement)
-- [x] Mozzarelle di bufala (bufale) [url](https://training.olinfo.it/#/task/bufale/statement)
+- [x] Spiedini di frutta (oii_spiedini) [url](https://training.olinfo.it/#/task/oii_spiedini/statement)
+- [x] Maree a Venezia (oii_maree) [url](https://training.olinfo.it/#/task/oii_maree/statement)
+- [x] Mozzarelle di bufala (oii_bufale) [url](https://training.olinfo.it/#/task/oii_bufale/statement)
 
 ## 2015
 
@@ -156,9 +168,9 @@
 
 ### Finals
 
-- [ ] Taglialegna (taglialegna) [url](https://training.olinfo.it/#/task/taglialegna/statement)
-- [ ] Collo di bottiglia (bottleneck) [url](https://training.olinfo.it/#/task/bottleneck/statement)
-- [ ] Accensione dei PC (accensione) [url](https://training.olinfo.it/#/task/accensione/statement)
+- [ ] Taglialegna (oii_taglialegna) [url](https://training.olinfo.it/#/task/oii_taglialegna/statement)
+- [ ] Collo di bottiglia (oii_bottleneck) [url](https://training.olinfo.it/#/task/oii_bottleneck/statement)
+- [ ] Accensione dei PC (oii_accensione) [url](https://training.olinfo.it/#/task/oii_accensione/statement)
 
 ## 2016
 
@@ -176,9 +188,9 @@
 
 ### Finals
 
-- [ ] Nemico mortale (nemesi) [url](https://training.olinfo.it/#/task/nemesi/statement)
-- [x] Ordinamento a paletta (paletta) [url](https://training.olinfo.it/#/task/paletta/statement)
-- [ ] Torre di controllo (aeroporto) [url](https://training.olinfo.it/#/task/aeroporto/statement)
+- [ ] Nemico mortale (oii_nemesi) [url](https://training.olinfo.it/#/task/oii_nemesi/statement)
+- [x] Ordinamento a paletta (oii_paletta) [url](https://training.olinfo.it/#/task/oii_paletta/statement)
+- [ ] Torre di controllo (oii_aeroporto) [url](https://training.olinfo.it/#/task/oii_aeroporto/statement)
 
 ## 2017
 
@@ -197,9 +209,9 @@
 
 ### Finals
 
-- [ ] Solleone sul lungomare (lungomare) [url](https://training.olinfo.it/#/task/oii_lungomare/statement)
-- [x] Scale di Hogwarts (hogwarts) [url](https://training.olinfo.it/#/task/oii_hogwarts/statement)
-- [ ] Classifica senza fili (classifica) [url](https://training.olinfo.it/#/task/oii_classifica/statement)
+- [ ] Solleone sul lungomare (oii_lungomare) [url](https://training.olinfo.it/#/task/oii_lungomare/statement)
+- [x] Scale di Hogwarts (oii_hogwarts) [url](https://training.olinfo.it/#/task/oii_hogwarts/statement)
+- [ ] Classifica senza fili (oii_classifica) [url](https://training.olinfo.it/#/task/oii_classifica/statement)
 
 ## 2018
 
@@ -212,9 +224,9 @@
 
 ### Finals
 
-- [ ] Stanza degli specchi (specchi) [url](https://training.olinfo.it/#/task/oii_specchi/statement)
-- [ ] Pazza gioia (caduta) [url](https://training.olinfo.it/#/task/oii_caduta/statement)
-- [ ] Ordine pubblico (corteo) [url](https://training.olinfo.it/#/task/oii_corteo/statement)
+- [ ] Stanza degli specchi (oii_specchi) [url](https://training.olinfo.it/#/task/oii_specchi/statement)
+- [ ] Pazza gioia (oii_caduta) [url](https://training.olinfo.it/#/task/oii_caduta/statement)
+- [ ] Ordine pubblico (oii_corteo) [url](https://training.olinfo.it/#/task/oii_corteo/statement)
 
 ## 2019
 
@@ -227,9 +239,9 @@
 
 ### Finals
 
-- [ ] Attenti all'incendio (incendio) [url](https://training.olinfo.it/#/task/oii_incendio/statement)
-- [x] Circuiti bruciati (circuiti) [url](https://training.olinfo.it/#/task/oii_circuiti/statement)
-- [ ] Cena di gala (cena) [url](https://training.olinfo.it/#/task/oii_cena/statement)
+- [ ] Attenti all'incendio (oii_incendio) [url](https://training.olinfo.it/#/task/oii_incendio/statement)
+- [x] Circuiti bruciati (oii_circuiti) [url](https://training.olinfo.it/#/task/oii_circuiti/statement)
+- [ ] Cena di gala (oii_cena) [url](https://training.olinfo.it/#/task/oii_cena/statement)
 
 ## 2020
 
@@ -239,11 +251,17 @@
 - [ ] Mascherine sporche (preoii_mascherine) [url](https://training.olinfo.it/#/task/preoii_mascherine/statement)
 - [ ] Password dimenticata (preoii_account) [url](https://training.olinfo.it/#/task/preoii_account/statement)
 
+### Mirror
+
+- [ ] Reazione a candela (oii_candele) [url](https://training.olinfo.it/#/task/oii_candele/statement)
+- [ ] Emoji di compleanno (oii_compleanno) [url](https://training.olinfo.it/#/task/oii_compleanno/statement)
+- [ ] Ordine online (oii_ristorante) [url](https://training.olinfo.it/#/task/oii_ristorante/statement)
+
 ### Finals
 
-- [ ] Sfida all'ultimo pangramma (pangramma) [url](https://training.olinfo.it/#/task/oii_pangramma/statement)
-- [ ] Cecilia e l'orticoltura (orticoltura) [url](https://training.olinfo.it/#/task/oii_orticoltura/statement)
-- [ ] Grattacieli commemorativi (grattacieli) [url](https://training.olinfo.it/#/task/oii_grattacieli/statement)
+- [ ] Sfida all'ultimo pangramma (oii_pangramma) [url](https://training.olinfo.it/#/task/oii_pangramma/statement)
+- [ ] Cecilia e l'orticoltura (oii_orticoltura) [url](https://training.olinfo.it/#/task/oii_orticoltura/statement)
+- [ ] Grattacieli commemorativi (oii_grattacieli) [url](https://training.olinfo.it/#/task/oii_grattacieli/statement)
 
 ## 2021
 
@@ -256,10 +274,10 @@
 
 ### Finals
 
-- [x] Smaltimento sostanze tossiche (smaltimento) [url](https://training.olinfo.it/#/task/oii_smaltimento/statement)
-- [ ] Foglietto illustrativo (foglietto) [url](https://training.olinfo.it/#/task/oii_foglietto/statement)
-- [ ] [32/100] Rifiuti da riciclare (riciclo) [url](https://training.olinfo.it/#/task/oii_riciclo/statement)
-- [x] Pulizie d'autunno (trendytrash) [url](https://training.olinfo.it/#/task/oii_trendytrash/statement)
+- [x] Smaltimento sostanze tossiche (oii_smaltimento) [url](https://training.olinfo.it/#/task/oii_smaltimento/statement)
+- [ ] Foglietto illustrativo (oii_foglietto) [url](https://training.olinfo.it/#/task/oii_foglietto/statement)
+- [ ] Rifiuti da riciclare (oii_riciclo) [url](https://training.olinfo.it/#/task/oii_riciclo/statement)
+- [x] Pulizie d'autunno (oii_trendytrash) [url](https://training.olinfo.it/#/task/oii_trendytrash/statement)
 
 ## 2022
 
@@ -271,10 +289,10 @@
 
 ### Finals
 
-- [x] Episodio I: un acquisto difficile (acquisti) [url](https://training.olinfo.it/#/task/oii_acquisti/statement)
-- [x] Episodio II: un lungo viaggio (bus) [url](https://training.olinfo.it/#/task/oii_bus/statement)
-- [x] Episodio III: la coda per il buffet (coda) [url](https://training.olinfo.it/#/task/oii_coda/statement)
-- [x] Episodio IV: tracce di DNA (dna) [url](https://training.olinfo.it/#/task/oii_dna/statement)
+- [x] Episodio I: un acquisto difficile (oii_acquisti) [url](https://training.olinfo.it/#/task/oii_acquisti/statement)
+- [x] Episodio II: un lungo viaggio (oii_bus) [url](https://training.olinfo.it/#/task/oii_bus/statement)
+- [x] Episodio III: la coda per il buffet (oii_coda) [url](https://training.olinfo.it/#/task/oii_coda/statement)
+- [x] Episodio IV: tracce di DNA (oii_dna) [url](https://training.olinfo.it/#/task/oii_dna/statement)
 
 ## 2023
 
@@ -301,3 +319,10 @@
 - [x] Imprevisti di viaggio (preoii_grandistazioni) [url](https://training.olinfo.it/#/task/preoii_grandistazioni/statement)
 - [ ] C.F.S. (preoii_morra) [url](https://training.olinfo.it/#/task/preoii_morra/statement)
 - [ ] Sabbie mobili (preoii_sabbia) [url](https://training.olinfo.it/#/task/preoii_sabbia/statement)
+
+### Finals
+
+- [x] Via Aemilia (oii_aemilia) [url](https://training.olinfo.it/#/task/oii_aemilia/statement)
+- [x] Codex Botanicus (oii_botanicus) [url](https://training.olinfo.it/#/task/oii_botanicus/statement)
+- [ ] Case de lo commune (oii_condomini) [url](https://training.olinfo.it/#/task/oii_condomini/statement)
+- [ ] Laboratorio di Datazione a Gruppi (oii_datazione) [url](https://training.olinfo.it/#/task/oii_datazione/statement)
