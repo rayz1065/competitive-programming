@@ -20,7 +20,7 @@
 - [x] Finanza creativa (ois_bilancio) [url](https://training.olinfo.it/#/task/ois_bilancio/statement)
 - [x] Pesci Mangioni (ois_pesci) [url](https://training.olinfo.it/#/task/ois_pesci/statement)
 - [x] Ponti e isole (ois_ponti) [url](https://training.olinfo.it/#/task/ois_ponti/statement)
-- [ ] Oro, argento e bronzo (ois_medaglie) [url](https://training.olinfo.it/#/task/ois_medaglie/statement)
+- [x] Oro, argento e bronzo (ois_medaglie) [url](https://training.olinfo.it/#/task/ois_medaglie/statement)
 
 ### Round 3, 2014-12-19
 
@@ -29,8 +29,8 @@
 - [x] Viaggio in taxi (ois_taxi) [url](https://training.olinfo.it/#/task/ois_taxi/statement)
 - [x] Espressione di parentesi (ois_parentesi) [url](https://training.olinfo.it/#/task/ois_parentesi/statement)
 - [x] Gioco del tris (ois_tris) [url](https://training.olinfo.it/#/task/ois_tris/statement)
-- [ ] Inviti alla festa (ois_festa) [url](https://training.olinfo.it/#/task/ois_festa/statement)
-- [ ] Piano degli studi (ois_pianostudi) [url](https://training.olinfo.it/#/task/ois_pianostudi/statement)
+- [x] Inviti alla festa (ois_festa) [url](https://training.olinfo.it/#/task/ois_festa/statement)
+- [x] Piano degli studi (ois_pianostudi) [url](https://training.olinfo.it/#/task/ois_pianostudi/statement)
 
 ### Round 4, 2015-01-27
 
@@ -47,7 +47,7 @@
 - [x] Dadi truccati (ois_dadi) [url](https://training.olinfo.it/#/task/ois_dadi/statement)
 - [x] Trampolino elastico (ois_trampolino) [url](https://training.olinfo.it/#/task/ois_trampolino/statement)
 - [x] Edilizia fantasiosa (ois_costruzioni) [url](https://training.olinfo.it/#/task/ois_costruzioni/statement)
-- [ ] Illuminazione di sala (ois_luci) [url](https://training.olinfo.it/#/task/ois_luci/statement)
+- [x] Illuminazione di sala (ois_luci) [url](https://training.olinfo.it/#/task/ois_luci/statement)
 - [x] Torneo di rugby (ois_rugby) [url](https://training.olinfo.it/#/task/ois_rugby/statement)
 - [x] Spesa lampo (ois_spesa) [url](https://training.olinfo.it/#/task/ois_spesa/statement)
 - [x] Pranzo dalla nonna (ois_nonna) [url](https://training.olinfo.it/#/task/ois_nonna/statement)
@@ -62,7 +62,7 @@
 - [x] Permutazione genetica (ois_permutazione) [url](https://training.olinfo.it/#/task/ois_permutazione/statement)
 - [x] Controllo degli estintori (ois_estintori) [url](https://training.olinfo.it/#/task/ois_estintori/statement)
 - [x] Maxi-server (ois_ricostruzioni) [url](https://training.olinfo.it/#/task/ois_ricostruzioni/statement)
-- [ ] Genealogia antica (ois_olimpo) [url](https://training.olinfo.it/#/task/ois_olimpo/statement)
+- [x] Genealogia antica (ois_olimpo) [url](https://training.olinfo.it/#/task/ois_olimpo/statement)
 
 ### Round 2, 2015-11-26
 
@@ -92,7 +92,7 @@
 - [x] Giro in bici (ois_ciclismo) [url](https://training.olinfo.it/#/task/ois_ciclismo/statement)
 - [x] Parser HTML (ois_html) [url](https://training.olinfo.it/#/task/ois_html/statement)
 - [x] Robot programmabile (ois_programma) [url](https://training.olinfo.it/#/task/ois_programma/statement)
-- [ ] Tracce aliene (ois_tracce) [url](https://training.olinfo.it/#/task/ois_tracce/statement)
+- [x] Tracce aliene (ois_tracce) [url](https://training.olinfo.it/#/task/ois_tracce/statement)
 
 ### Final round, 2016-02-29
 
@@ -100,7 +100,7 @@
 - [x] Anno luce (ois_annoluce) [url](https://training.olinfo.it/#/task/ois_annoluce/statement)
 - [x] Enciclopedia olimpica (ois_enciclopedia) [url](https://training.olinfo.it/#/task/ois_enciclopedia/statement)
 - [ ] Codici interessanti (ois_interessante) [url](https://training.olinfo.it/#/task/ois_interessante/statement)
-- [ ] Filiali bilanciate (ois_filiali) [url](https://training.olinfo.it/#/task/ois_filiali/statement)
+- [x] Filiali bilanciate (ois_filiali) [url](https://training.olinfo.it/#/task/ois_filiali/statement)
 - [x] Carta fedeltà (ois_miglia) [url](https://training.olinfo.it/#/task/ois_miglia/statement)
 - [x] Labigriglia (ois_labigriglia) [url](https://training.olinfo.it/#/task/ois_labigriglia/statement)
 
@@ -164,7 +164,7 @@
 - [x] Wonderful Grove (ois_copac) [url](https://training.olinfo.it/#/task/ois_copac/statement)
 - [ ] Decimal Fractions (ois_fraction) [url](https://training.olinfo.it/#/task/ois_fraction/statement)
 - [x] Word Game (ois_jumps) [url](https://training.olinfo.it/#/task/ois_jumps/statement)
-- [ ] Fractal Painting (ois_painting) [url](https://training.olinfo.it/#/task/ois_painting/statement)
+- [x] Fractal Painting (ois_painting) [url](https://training.olinfo.it/#/task/ois_painting/statement)
 - [x] Number Game (ois_subset) [url](https://training.olinfo.it/#/task/ois_subset/statement)
 - [x] UEFA Coefficient (ois_uefa) [url](https://training.olinfo.it/#/task/ois_uefa/statement)
 
@@ -270,9 +270,9 @@
 ### Round 1, 2019-11-11
 
 - [x] Bases Conversion (ois_23) [url](https://training.olinfo.it/#/task/ois_23/statement)
-- [ ] Kill Those Bugs! (ois_blindpunch) [url](https://training.olinfo.it/#/task/ois_blindpunch/statement)
+- [x] Kill Those Bugs! (ois_blindpunch) [url](https://training.olinfo.it/#/task/ois_blindpunch/statement)
 - [ ] Save The Barrels (ois_butoaie) [url](https://training.olinfo.it/#/task/ois_butoaie/statement)
-- [ ] Fibonacci Colonies (ois_fibonaccibug) [url](https://training.olinfo.it/#/task/ois_fibonaccibug/statement)
+- [x] Fibonacci Colonies (ois_fibonaccibug) [url](https://training.olinfo.it/#/task/ois_fibonaccibug/statement)
 - [x] Funny Circuits (ois_funnygraph) [url](https://training.olinfo.it/#/task/ois_funnygraph/statement)
 - [x] Improving Grades (ois_grades) [url](https://training.olinfo.it/#/task/ois_grades/statement)
 - [x] Compulsive Smartphone Shopping (ois_smartphone) [url](https://training.olinfo.it/#/task/ois_smartphone/statement)
@@ -341,7 +341,7 @@
 ### Round 2, 2020-12-15
 
 - [ ] Plan for the Worst! (ois_airstrike) [url](https://training.olinfo.it/#/task/ois_airstrike/statement)
-- [ ] Pay That Box! Home Edition (ois_boardgame) [url](https://training.olinfo.it/#/task/ois_boardgame/statement)
+- [x] Pay That Box! Home Edition (ois_boardgame) [url](https://training.olinfo.it/#/task/ois_boardgame/statement)
 - [x] Coin Change (ois_coinchange) [url](https://training.olinfo.it/#/task/ois_coinchange/statement)
 - [ ] Delayed Signals (ois_delay) [url](https://training.olinfo.it/#/task/ois_delay/statement)
 - [ ] Quantum Magic (ois_magic) [url](https://training.olinfo.it/#/task/ois_magic/statement)
@@ -598,7 +598,7 @@
 ### Round 3, 2025-01-15
 
 - [x] Andi and Bandi (ois_andibandi) [url](https://training.olinfo.it/#/task/ois_andibandi/statement)
-- [ ] And Queries (ois_andqueries) [url](https://training.olinfo.it/#/task/ois_andqueries/statement)
+- [x] And Queries (ois_andqueries) [url](https://training.olinfo.it/#/task/ois_andqueries/statement)
 - [x] Board Game (ois_boardgame2) [url](https://training.olinfo.it/#/task/ois_boardgame2/statement)
 - [x] Dance Teacher (ois_dance) [url](https://training.olinfo.it/#/task/ois_dance/statement)
 - [x] Carlo's Library (ois_indexing) [url](https://training.olinfo.it/#/task/ois_indexing/statement)
@@ -606,5 +606,30 @@
 - [x] Lakeside Walk (ois_lake) [url](https://training.olinfo.it/#/task/ois_lake/statement)
 - [x] Mana (ois_mana) [url](https://training.olinfo.it/#/task/ois_mana/statement)
 - [x] RMI Results (ois_rmi) [url](https://training.olinfo.it/#/task/ois_rmi/statement)
-- [ ] Sandwich (ois_sandwich) [url](https://training.olinfo.it/#/task/ois_sandwich/statement)
+- [x] Sandwich (ois_sandwich) [url](https://training.olinfo.it/#/task/ois_sandwich/statement)
 - [ ] Friendly Tournament (ois_weights) [url](https://training.olinfo.it/#/task/ois_weights/statement)
+
+## Round 4,
+
+- [x] Choosing A Picture Frame (ois_frame) [url](https://training.olinfo.it/#/task/ois_frame/statement)
+- [x] Km to Go (ois_kmtogo) [url](https://training.olinfo.it/#/task/ois_kmtogo/statement)
+- [x] Lakeside Walk 2 (ois_lake2) [url](https://training.olinfo.it/#/task/ois_lake2/statement)
+- [x] Matrix Reduction (ois_matred) [url](https://training.olinfo.it/#/task/ois_matred/statement)
+- [x] Maximum Difference (ois_maxdifference) [url](https://training.olinfo.it/#/task/ois_maxdifference/statement)
+- [ ] Longest Palindrome (ois_pali2) [url](https://training.olinfo.it/#/task/ois_pali2/statement)
+- [x] Pizza Orders (ois_pizza) [url](https://training.olinfo.it/#/task/ois_pizza/statement)
+- [x] Subject Pairing (ois_subjects) [url](https://training.olinfo.it/#/task/ois_subjects/statement)
+- [x] The Dutch Farmer (ois_tulips2) [url](https://training.olinfo.it/#/task/ois_tulips2/statement)
+- [x] Broken Traffic Lights (ois_twolanes) [url](https://training.olinfo.it/#/task/ois_twolanes/statement)
+- [x] Valentine's Day (ois_valentinesday) [url](https://training.olinfo.it/#/task/ois_valentinesday/statement)
+
+## Round 5
+
+- [x] Acorn Duel (ois_acorn) [url](https://training.olinfo.it/#/task/ois_acorn/statement)
+- [ ] Bouncing DVD (ois_bouncing) [url](https://training.olinfo.it/#/task/ois_bouncing/statement)
+- [ ] Convoluted Drawing (ois_drawing) [url](https://training.olinfo.it/#/task/ois_drawing/statement)
+- [x] Erasing with GCD (ois_gcd-erasing) [url](https://training.olinfo.it/#/task/ois_gcd-erasing/statement)
+- [ ] Gnome Sort (ois_gnomesort) [url](https://training.olinfo.it/#/task/ois_gnomesort/statement)
+- [ ] The Joy of Reading (ois_libraries) [url](https://training.olinfo.it/#/task/ois_libraries/statement)
+- [ ] And the Rain Continues to Come Down (ois_rain) [url](https://training.olinfo.it/#/task/ois_rain/statement)
+- [ ] R-P-S Tournament (ois_rock-paper-scissors-tournament) [url](https://training.olinfo.it/#/task/ois_rock-paper-scissors-tournament/statement)

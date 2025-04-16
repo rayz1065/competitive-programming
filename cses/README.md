@@ -1,6 +1,6 @@
 # CSES Problem Set
 
-<https://cses.fi>
+https://cses.fi
 
 ## Introductory Problems
 
@@ -133,7 +133,7 @@
 - [ ] Range Update Queries [url](https://cses.fi/problemset/task/1651)
 - [ ] Forest Queries [url](https://cses.fi/problemset/task/1652)
 - [x] Hotel Queries [url](https://cses.fi/problemset/task/1143)
-- [ ] List Removals [url](https://cses.fi/problemset/task/1749)
+- [x] List Removals [url](https://cses.fi/problemset/task/1749)
 - [ ] Salary Queries [url](https://cses.fi/problemset/task/1144)
 - [ ] Prefix Sum Queries [url](https://cses.fi/problemset/task/2166)
 - [x] Pizzeria Queries [url](https://cses.fi/problemset/task/2206)
