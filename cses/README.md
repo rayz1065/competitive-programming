@@ -64,16 +64,16 @@ https://cses.fi
 
 ## Dynamic Programming
 
-- [ ] Dice Combinations [url](https://cses.fi/problemset/task/1633)
-- [ ] Minimizing Coins [url](https://cses.fi/problemset/task/1634)
-- [ ] Coin Combinations I [url](https://cses.fi/problemset/task/1635)
-- [ ] Coin Combinations II [url](https://cses.fi/problemset/task/1636)
-- [ ] Removing Digits [url](https://cses.fi/problemset/task/1637)
-- [ ] Grid Paths [url](https://cses.fi/problemset/task/1638)
-- [ ] Book Shop [url](https://cses.fi/problemset/task/1158)
-- [ ] Array Description [url](https://cses.fi/problemset/task/1746)
-- [ ] Counting Towers [url](https://cses.fi/problemset/task/2413)
-- [ ] Edit Distance [url](https://cses.fi/problemset/task/1639)
+- [x] Dice Combinations [url](https://cses.fi/problemset/task/1633)
+- [x] Minimizing Coins [url](https://cses.fi/problemset/task/1634)
+- [x] Coin Combinations I [url](https://cses.fi/problemset/task/1635)
+- [x] Coin Combinations II [url](https://cses.fi/problemset/task/1636)
+- [x] Removing Digits [url](https://cses.fi/problemset/task/1637)
+- [x] Grid Paths [url](https://cses.fi/problemset/task/1638)
+- [x] Book Shop [url](https://cses.fi/problemset/task/1158)
+- [x] Array Description [url](https://cses.fi/problemset/task/1746)
+- [x] Counting Towers [url](https://cses.fi/problemset/task/2413)
+- [x] Edit Distance [url](https://cses.fi/problemset/task/1639)
 - [ ] Rectangle Cutting [url](https://cses.fi/problemset/task/1744)
 - [ ] Money Sums [url](https://cses.fi/problemset/task/1745)
 - [ ] Removal Game [url](https://cses.fi/problemset/task/1097)
@@ -86,8 +86,8 @@ https://cses.fi
 
 ## Graph Algorithms
 
-- [ ] Counting Rooms [url](https://cses.fi/problemset/task/1192)
-- [ ] Labyrinth [url](https://cses.fi/problemset/task/1193)
+- [x] Counting Rooms [url](https://cses.fi/problemset/task/1192)
+- [x] Labyrinth [url](https://cses.fi/problemset/task/1193)
 - [ ] Building Roads [url](https://cses.fi/problemset/task/1666)
 - [ ] Message Route [url](https://cses.fi/problemset/task/1667)
 - [ ] Building Teams [url](https://cses.fi/problemset/task/1668)
@@ -230,7 +230,7 @@ https://cses.fi
 
 ## Advanced Techniques
 
-- [ ] Meet in the Middle [url](https://cses.fi/problemset/task/1628)
+- [x] Meet in the Middle [url](https://cses.fi/problemset/task/1628)
 - [ ] Hamming Distance [url](https://cses.fi/problemset/task/2136)
 - [ ] Beautiful Subgrids [url](https://cses.fi/problemset/task/2137)
 - [ ] Reachable Nodes [url](https://cses.fi/problemset/task/2138)
