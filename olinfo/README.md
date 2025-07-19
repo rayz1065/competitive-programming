@@ -27,6 +27,7 @@
 - [x] Cammino minimo (mincammino2) [url](https://training.olinfo.it/task/mincammino2)
 - [x] Connessioni di rete (connessioni) [url](https://training.olinfo.it/task/connessioni)
 - [x] Museo di Pontedera (museo) [url](https://training.olinfo.it/task/museo)
+- [x] Soste in autostrada (autogrill) [url](https://training.olinfo.it/task/autogrill)
 
 ## Garastage
 
@@ -86,6 +87,10 @@
 ## ITDay
 
 - [ ] Lavinia stalker (itday_stalker) [url](https://training.olinfo.it/#/task/itday_stalker/statement)
-- [ ] Il crescione perfetto (itday_cesena) [url](https://training.olinfo.it/#/task/itday_cesena/statement)
+- [x] Il crescione perfetto (itday_cesena) [url](https://training.olinfo.it/#/task/itday_cesena/statement)
 - [x] Mazzi di carte (itday_carte) [url](https://training.olinfo.it/#/task/itday_carte/statement)
 - [x] Giardino di Budrio (itday_piante) [url](https://training.olinfo.it/#/task/itday_piante/statement)
+- [x] Parco divertimenti (itday_parco) [url](https://training.olinfo.it/#/task/itday_parco/statement)
+- [x] Problemi difficili (itday_problemset) [url](https://training.olinfo.it/#/task/itday_problemset/statement)
+- [x] Cambia i semafori (itday_semafori) [url](https://training.olinfo.it/#/task/itday_semafori/statement)
+- [x] Compila il testo (itday_typst) [url](https://training.olinfo.it/#/task/itday_typst/statement)
