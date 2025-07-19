@@ -1,44 +1,53 @@
 #include <bits/stdc++.h>
-#define MAXN 9000
-#define MAXM 10
+#define MAXN 15
+#define MAXK 15
+
 using namespace std;
 
-int N, K;
-bool model[MAXM][MAXM];
-bool painting [MAXN][MAXN];
-bool paintingMemo[MAXN][MAXN];
+int n;
+char painting[MAXN][MAXN];
 
-int main(){
-    fstream in, out;
-    in.open("input.txt", ios::in);
-    out.open("output.txt", ios::out);
-    in>>N>>K;
-    for(int i=0; i<N; i++)
-        for(int j=0; j<N; j++){
-            char type;
-            in>>type;
-            model[i][j]=(type=='.');
-            paintingMemo[i][j]=model[i][j];
+int main() {
+    cin.tie(NULL);
+    cout.tie(NULL);
+    ios_base::sync_with_stdio(false);
+
+    int k;
+    cin >> n >> k;
+    for (int i = 0; i < n; i++) {
+        cin >> painting[i];
+    }
+
+    vector<int> i(k + 1, 0);
+    while (i[k] == 0) {
+        vector<int> j(k + 1, 0);
+        int asterisks = 0;
+
+        for (int k_ = 0; k_ < k; k_++) {
+            asterisks += painting[i[k_]][j[k_]] == '*';
         }
-    int pwN=N;
-    for(int c=1; c<K-1; c++, pwN*=N){
-        for(int i=0; i<pwN*N; i++){
-            for(int b=0; b<N; b++)
-                for(int j=0; j<pwN; j++){
-                    painting[i][b*pwN+j]=paintingMemo[i%pwN][j]*model[i/pwN][b];
 
+        while (j[k] == 0) {
+            putchar_unlocked(asterisks == 0 ? '.' : '*');
+
+            for (int k_ = 0; k_ <= k; k_++) {
+                asterisks -= painting[i[k_]][j[k_]] == '*';
+                j[k_] = (j[k_] + 1) % n;
+                asterisks += painting[i[k_]][j[k_]] == '*';
+                if (j[k_] > 0) {
+                    break;
+                }
             }
         }
-        for(int a=0; a<pwN*N; a++)
-            for(int b=0; b<pwN*N; b++)
-                paintingMemo[a][b]=painting[a][b];
-    }
-    for(int i=0; i<pwN*N; i++){
-        for(int b=0; b<N; b++)
-            for(int j=0; j<pwN; j++){
-                out<<((paintingMemo[i%pwN][j]*model[i/pwN][b])?'.':'*');
+        putchar_unlocked('\n');
 
+        for (int k_ = 0; k_ <= k; k_++) {
+            asterisks -= painting[i[k_]][j[k_]] == '*';
+            i[k_] = (i[k_] + 1) % n;
+            asterisks += painting[i[k_]][i[k_]] == '*';
+            if (i[k_] > 0) {
+                break;
+            }
         }
-        out<<endl;
     }
 }
